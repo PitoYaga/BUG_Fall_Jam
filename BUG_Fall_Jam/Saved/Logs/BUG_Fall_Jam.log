@@ -707,3 +707,328 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.25-07.52.22:031][  0]LogAssetRegistry: Asset discovery search completed in 9.5361 seconds
 [2022.11.25-07.52.22:037][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2022.11.25-07.52.22:040][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.25-07.53.28:559][888]LogHttp: Warning: 00000827DA95AA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FF7CD3F-4859-2C99-EB7C-EAAC7DD8F591%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d8d9142e43ef1ea53fa53681bb402430%7Ccc6efe2a01b949568e70184ca5c764c1%7C5d793b2a-d5a2-4b32-a31e-8dd529b88b4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.25-07.53.28:559][888]LogHttp: Warning: 00000827DA95AA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.25-07.53.28:559][888]LogHttp: Warning: 00000827DA95AA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.25-07.53.28:559][888]LogHttp: Warning: 00000827DA95AA00: libcurl info message cache 1 (Closing connection 0)
+[2022.11.25-07.53.28:559][888]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FF7CD3F-4859-2C99-EB7C-EAAC7DD8F591%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d8d9142e43ef1ea53fa53681bb402430%7Ccc6efe2a01b949568e70184ca5c764c1%7C5d793b2a-d5a2-4b32-a31e-8dd529b88b4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.25-07.54.13:032][ 26]LogDerivedDataCache: C:/Users/Efe Canoglu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.895 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.25-07.54.17:393][ 39]LogHttp: Warning: 00000827DA95AA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FF7CD3F-4859-2C99-EB7C-EAAC7DD8F591%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d8d9142e43ef1ea53fa53681bb402430%7Ccc6efe2a01b949568e70184ca5c764c1%7C5d793b2a-d5a2-4b32-a31e-8dd529b88b4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.25-07.54.17:393][ 39]LogHttp: Warning: 00000827DA95AA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.25-07.54.17:393][ 39]LogHttp: Warning: 00000827DA95AA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.25-07.54.17:393][ 39]LogHttp: Warning: 00000827DA95AA00: libcurl info message cache 1 (Closing connection 1)
+[2022.11.25-07.54.17:393][ 39]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FF7CD3F-4859-2C99-EB7C-EAAC7DD8F591%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d8d9142e43ef1ea53fa53681bb402430%7Ccc6efe2a01b949568e70184ca5c764c1%7C5d793b2a-d5a2-4b32-a31e-8dd529b88b4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.25-07.55.17:403][218]LogHttp: Warning: 00000827DA954100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FF7CD3F-4859-2C99-EB7C-EAAC7DD8F591%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d8d9142e43ef1ea53fa53681bb402430%7Ccc6efe2a01b949568e70184ca5c764c1%7C5d793b2a-d5a2-4b32-a31e-8dd529b88b4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.25-07.55.17:404][218]LogHttp: Warning: 00000827DA954100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.25-07.55.17:404][218]LogHttp: Warning: 00000827DA954100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.25-07.55.17:404][218]LogHttp: Warning: 00000827DA954100: libcurl info message cache 1 (Closing connection 2)
+[2022.11.25-07.55.17:404][218]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FF7CD3F-4859-2C99-EB7C-EAAC7DD8F591%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d8d9142e43ef1ea53fa53681bb402430%7Ccc6efe2a01b949568e70184ca5c764c1%7C5d793b2a-d5a2-4b32-a31e-8dd529b88b4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FF7CD3F-4859-2C99-EB7C-EAAC7DD8F591%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d8d9142e43ef1ea53fa53681bb402430%7Ccc6efe2a01b949568e70184ca5c764c1%7C5d793b2a-d5a2-4b32-a31e-8dd529b88b4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: request failed, libcurl error: 51 (SSL peer certificate or SSH remote key was not OK)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 0 (  Trying 34.206.225.231...)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.206.225.231) port 443 (#3))
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 10 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 11 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 12 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 13 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 14 (SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 15 (ALPN, server accepted to use http/1.1)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 16 (Server certificate:)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 17 ( subject: C=TR; ST=\U0130STANBUL; L=BE\U015E\U0130KTA\U015E; OU=B\U0130LG\U0130 \U0130\U015ELEM DA\U0130RE BA\U015EKANLI\U011EI; O=BAHￇE\U015EEH\U0130R ￜN\U0130VERS\U0130TES\U0130; CN=*.bau.edu.tr)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 18 ( start date: Dec  3 16:12:42 2021 GMT)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 19 ( expire date: Jan  4 16:12:42 2023 GMT)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 20 ( subjectAltName does not match datarouter.ol.epicgames.com)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 21 (SSL: no alternative certificate subject name matches target host name 'datarouter.ol.epicgames.com')
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 22 (Closing connection 3)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: 00000827DA950000: libcurl info message cache 23 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.11.25-07.56.17:435][397]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FF7CD3F-4859-2C99-EB7C-EAAC7DD8F591%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d8d9142e43ef1ea53fa53681bb402430%7Ccc6efe2a01b949568e70184ca5c764c1%7C5d793b2a-d5a2-4b32-a31e-8dd529b88b4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.25-07.57.29:226][611]LogHttp: Warning: 00000827DA955500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FF7CD3F-4859-2C99-EB7C-EAAC7DD8F591%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d8d9142e43ef1ea53fa53681bb402430%7Ccc6efe2a01b949568e70184ca5c764c1%7C5d793b2a-d5a2-4b32-a31e-8dd529b88b4e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.25-07.57.29:226][611]LogHttp: Warning: 00000827DA955500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.25-07.57.29:226][611]LogHttp: Warning: 00000827DA955500: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.11.25-07.57.29:227][611]LogHttp: Warning: 00000827DA955500: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.25-07.57.29:227][611]LogHttp: Warning: 00000827DA955500: libcurl info message cache 2 (Closing connection 4)
+[2022.11.25-07.57.29:227][611]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FF7CD3F-4859-2C99-EB7C-EAAC7DD8F591%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d8d9142e43ef1ea53fa53681bb402430%7Ccc6efe2a01b949568e70184ca5c764c1%7C5d793b2a-d5a2-4b32-a31e-8dd529b88b4e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.25-07.57.42:636][650]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.11.25-07.59.43:880][803]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.25-07.59.43:901][803]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.25-07.59.43:908][804]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.25-07.59.52:833][327]LogContentBrowser: Attempting asset rename: NewFolder -> EfeCanoglu
+[2022.11.25-07.59.52:834][327]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.25-08.00.02:416][558]LogSlate: Window 'New Level' being destroyed
+[2022.11.25-08.00.02:439][558]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.25-08.00.02:439][558]LightingResults: New page: Lighting Build
+[2022.11.25-08.00.02:439][558]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.11.25-08.00.02:449][558]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.25-08.00.02:449][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-08.00.02:453][558]MapCheck: New page: Map Check
+[2022.11.25-08.00.02:453][558]LightingResults: New page: Lighting Build
+[2022.11.25-08.00.02:463][558]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.25-08.00.02:470][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.25-08.00.02:498][558]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.11.25-08.00.02:498][558]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.25-08.00.02:498][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-08.00.02:499][558]LogAIModule: Creating AISystem for world Untitled_1
+[2022.11.25-08.00.02:588][558]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.25-08.00.02:597][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.11.25-08.00.02:597][558]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.25-08.00.02:598][558]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,209ms to complete.
+[2022.11.25-08.00.02:598][558]LogFileHelpers: Loading map 'Template_Default' took 0.159
+[2022.11.25-08.00.24:561][648]LogSlate: Window 'Save Level As' being destroyed
+[2022.11.25-08.00.24:717][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.25-08.00.24:723][648]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005664 seconds
+[2022.11.25-08.00.24:729][648]LogSavePackage: Moving output files for package: /Game/EfeCanoglu/DemoMechanics
+[2022.11.25-08.00.24:729][648]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Saved/DemoMechanics39D0E3C8443A4840346DB7BC38921EBA.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Content/EfeCanoglu/DemoMechanics.umap'
+[2022.11.25-08.00.24:741][648]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/EfeCanoglu/DemoMechanics_BuiltData
+[2022.11.25-08.00.24:745][648]LogSavePackage: Moving output files for package: /Game/EfeCanoglu/DemoMechanics_BuiltData
+[2022.11.25-08.00.24:745][648]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Saved/DemoMechanics_BuiltData842EF536476255E4C1B1D6BCECC1B032.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Content/EfeCanoglu/DemoMechanics_BuiltData.uasset'
+[2022.11.25-08.00.24:746][648]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/EfeCanoglu/DemoMechanics_BuiltData
+[2022.11.25-08.00.24:769][648]LogFileHelpers: Saving map 'DemoMechanics' took 0.180
+[2022.11.25-08.00.24:772][648]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.25-08.00.24:772][648]LogContentValidation: Display: Validating World /Game/EfeCanoglu/DemoMechanics.DemoMechanics
+[2022.11.25-08.00.24:772][648]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/EfeCanoglu/DemoMechanics_BuiltData.DemoMechanics_BuiltData
+[2022.11.25-08.00.34:985][134]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.25-08.00.34:986][134]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.25-08.00.34:987][134]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/EfeCanoglu/DemoMechanics.DemoMechanics:PersistentLevel.PlayerStart_0
+[2022.11.25-08.00.34:988][134]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.25-08.00.34:992][134]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/EfeCanoglu/DemoMechanics.DemoMechanics:PersistentLevel.PlayerStart_0
+[2022.11.25-08.00.34:992][134]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.25-08.00.35:503][163]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.25-08.00.35:503][163]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.25-08.00.35:505][163]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/EfeCanoglu/DemoMechanics.DemoMechanics:PersistentLevel.PlayerStart_1
+[2022.11.25-08.00.35:505][163]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.25-08.00.35:505][163]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/EfeCanoglu/DemoMechanics.DemoMechanics:PersistentLevel.PlayerStart_1
+[2022.11.25-08.00.35:506][163]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.25-08.00.51:188][951]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.25-08.00.56:696][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.25-08.00.56:703][264]LogSavePackage: Moving output files for package: /Game/EfeCanoglu/DemoMechanics
+[2022.11.25-08.00.56:703][264]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Saved/DemoMechanics4D57D4CE46F14E5D3F98BB92128CEA57.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Content/EfeCanoglu/DemoMechanics.umap'
+[2022.11.25-08.00.56:713][264]LogFileHelpers: No new changes to save!
+[2022.11.25-08.00.56:744][264]AssetCheck: New page: Asset Save: DemoMechanics
+[2022.11.25-08.00.56:744][264]LogContentValidation: Display: Validating World /Game/EfeCanoglu/DemoMechanics.DemoMechanics
+[2022.11.25-08.00.57:972][314]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.25-08.00.57:984][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.25-08.00.57:985][314]PIE: New page: PIE session: DemoMechanics (25 Kas 2022 14:00:57)
+[2022.11.25-08.00.57:990][314]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.25-08.00.57:991][314]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.25-08.00.57:992][314]LogPlayLevel: Creating play world package: /Game/EfeCanoglu/UEDPIE_0_DemoMechanics
+[2022.11.25-08.00.57:997][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004711s)
+[2022.11.25-08.00.57:997][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EfeCanoglu/DemoMechanics.DemoMechanics to /Game/EfeCanoglu/UEDPIE_0_DemoMechanics.DemoMechanics (0.005150s)
+[2022.11.25-08.00.57:997][314]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.25-08.00.57:998][314]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-08.00.57:999][314]LogAIModule: Creating AISystem for world DemoMechanics
+[2022.11.25-08.00.57:999][314]LogPlayLevel: PIE: World Init took: (0.001836s)
+[2022.11.25-08.00.58:014][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.11.25-08.00.58:016][314]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.25-08.00.58:016][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.25-08.00.58:016][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.25-08.00.58:016][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.25-08.00.58:016][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.25-08.00.58:016][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.25-08.00.58:017][314]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.25-08.00.58:017][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.25-08.00.58:017][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.25-08.00.58:018][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.25-08.00.58:018][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.25-08.00.58:018][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.25-08.00.58:021][314]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.25-08.00.58:110][314]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2022.11.25-08.00.58:110][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.25-08.00.58:110][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.25-08.00.58:110][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.25-08.00.58:112][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.25-08.00.58:113][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.25-08.00.58:115][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.25-08.00.58:115][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.25-08.00.58:115][314]LogInit: FAudioDevice initialized.
+[2022.11.25-08.00.58:115][314]LogAudio: Display: Audio Device (ID: 2) registered with world 'DemoMechanics'.
+[2022.11.25-08.00.58:135][314]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.25-08.00.58:136][314]LogWorld: Bringing World /Game/EfeCanoglu/UEDPIE_0_DemoMechanics.DemoMechanics up for play (max tick rate 0) at 2022.11.25-11.00.58
+[2022.11.25-08.00.58:138][314]LogWorld: Bringing up level for play took: 0.002115
+[2022.11.25-08.00.58:141][314]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.11.25-08.00.58:202][314]PIE: Server logged in
+[2022.11.25-08.00.58:204][314]PIE: Play in editor total start time 0,224 seconds.
+[2022.11.25-08.01.13:373][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.25-08.01.13:373][206]LogWorld: BeginTearingDown for /Game/EfeCanoglu/UEDPIE_0_DemoMechanics
+[2022.11.25-08.01.13:373][206]LogWorld: UWorld::CleanupWorld for DemoMechanics, bSessionEnded=true, bCleanupResources=true
+[2022.11.25-08.01.13:374][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-08.01.13:386][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.25-08.01.13:389][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-08.01.13:396][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.25-08.01.13:397][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.25-08.01.13:399][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.25-08.01.13:406][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.25-08.01.13:494][209]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.11.25-08.07.04:082][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.25-08.07.04:090][677]LogSavePackage: Moving output files for package: /Game/EfeCanoglu/DemoMechanics
+[2022.11.25-08.07.04:090][677]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Saved/DemoMechanicsBA924DA54D19A14BE4E5B1B1F82FE7B7.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Content/EfeCanoglu/DemoMechanics.umap'
+[2022.11.25-08.07.04:102][677]LogFileHelpers: No new changes to save!
+[2022.11.25-08.07.04:130][677]AssetCheck: New page: Asset Save: DemoMechanics
+[2022.11.25-08.07.04:130][677]LogContentValidation: Display: Validating World /Game/EfeCanoglu/DemoMechanics.DemoMechanics
+[2022.11.25-08.07.17:718][988]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.25-08.09.00:685][726]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.25-08.09.00:738][726]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.25-08.09.08:675][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.25-08.09.08:794][ 30]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2022.11.25-08.09.08:795][ 30]Cmd: MAP LOAD FILE="../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.25-08.09.08:795][ 30]LightingResults: New page: Lighting Build
+[2022.11.25-08.09.08:795][ 30]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2022.11.25-08.09.08:796][ 30]LogWorld: UWorld::CleanupWorld for DemoMechanics, bSessionEnded=true, bCleanupResources=true
+[2022.11.25-08.09.08:796][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-08.09.08:796][ 30]MapCheck: New page: Map Check
+[2022.11.25-08.09.08:796][ 30]LightingResults: New page: Lighting Build
+[2022.11.25-08.09.08:803][ 30]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.25-08.09.08:804][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.11.25-08.09.08:807][ 30]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.25-08.09.08:807][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-08.09.08:815][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.25-08.09.08:822][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.25-08.09.08:828][ 30]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2022.11.25-08.09.08:828][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-08.09.08:828][ 30]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.25-08.09.08:829][ 30]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.25-08.09.08:829][ 30]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.11.25-08.09.08:860][ 30]LogWorldPartition: Display: WorldPartition initialize took 31 ms
+[2022.11.25-08.09.08:921][ 30]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.25-08.09.08:931][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.25-08.09.08:939][ 30]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.25-08.09.08:939][ 30]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,254ms to complete.
+[2022.11.25-08.09.08:939][ 30]LogFileHelpers: Loading map 'FirstPersonMap' took 0.145
+[2022.11.25-08.09.08:974][ 30]LogViewport: Scene viewport resized to 1121x417, mode Windowed.
+[2022.11.25-08.09.12:088][196]LogViewport: Scene viewport resized to 1121x588, mode Windowed.
+[2022.11.25-08.09.20:849][659]LogContentBrowser: Deferred new asset file creation: BP_FirstPersonCharacter1
+[2022.11.25-08.09.20:853][659]LogContentBrowser: Creating deferred item: BP_FirstPersonCharacter1
+[2022.11.25-08.09.20:866][660]LogContentBrowser: Renaming the item being created (Deferred Item: BP_FirstPersonCharacter1).
+[2022.11.25-08.09.35:678][548]LogContentBrowser: Attempting asset rename: BP_FirstPersonCharacter1 -> BP_Character
+[2022.11.25-08.09.35:706][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.11.25-08.09.35:719][548]LogContentBrowser: End creating deferred item BP_FirstPersonCharacter1
+[2022.11.25-08.09.40:968][722]LogMetaData: Removing '/Game/EfeCanoglu/BP_Character.SKEL_BP_Character_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Character.PackageMetaData'
+[2022.11.25-08.09.40:968][722]LogMetaData: Removing '/Game/EfeCanoglu/BP_Character.BP_Character_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Character.PackageMetaData'
+[2022.11.25-08.09.40:968][722]LogMetaData: Removing '/Game/EfeCanoglu/BP_Character.SKEL_BP_Character_C:InpAxisEvt_Turn Right / Left Gamepad_K2Node_InputAxisEvent_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Character.PackageMetaData'
+[2022.11.25-08.09.40:968][722]LogMetaData: Removing '/Game/EfeCanoglu/BP_Character.SKEL_BP_Character_C:InpAxisEvt_Look Up / Down Gamepad_K2Node_InputAxisEvent_1' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Character.PackageMetaData'
+[2022.11.25-08.09.40:968][722]LogMetaData: Removing '/Game/EfeCanoglu/BP_Character.SKEL_BP_Character_C:InpAxisEvt_Turn Right / Left Mouse_K2Node_InputAxisEvent_2' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Character.PackageMetaData'
+[2022.11.25-08.09.40:968][722]LogMetaData: Removing '/Game/EfeCanoglu/BP_Character.SKEL_BP_Character_C:InpAxisEvt_Look Up / Down Mouse_K2Node_InputAxisEvent_3' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Character.PackageMetaData'
+[2022.11.25-08.09.40:968][722]LogMetaData: Removing '/Game/EfeCanoglu/BP_Character.SKEL_BP_Character_C:InpAxisEvt_Move Forward / Backward_K2Node_InputAxisEvent_4' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Character.PackageMetaData'
+[2022.11.25-08.09.40:968][722]LogMetaData: Removing '/Game/EfeCanoglu/BP_Character.SKEL_BP_Character_C:InpAxisEvt_Move Right / Left_K2Node_InputAxisEvent_5' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Character.PackageMetaData'
+[2022.11.25-08.09.40:968][722]LogMetaData: Removing '/Game/EfeCanoglu/BP_Character.SKEL_BP_Character_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Character.PackageMetaData'
+[2022.11.25-08.09.41:089][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EfeCanoglu/BP_Character" FILE="../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Content/EfeCanoglu/BP_Character.uasset" SILENT=true
+[2022.11.25-08.09.41:117][722]LogSavePackage: Moving output files for package: /Game/EfeCanoglu/BP_Character
+[2022.11.25-08.09.41:117][722]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Saved/BP_CharacterE5300FC341561ACF2C31FEA5C374A650.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Content/EfeCanoglu/BP_Character.uasset'
+[2022.11.25-08.09.41:156][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.25-08.09.41:164][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.25-08.09.41:172][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.11.25-08.09.41:195][722]AssetCheck: New page: Asset Save: BP_Character
+[2022.11.25-08.09.41:195][722]LogContentValidation: Display: Validating Blueprint /Game/EfeCanoglu/BP_Character.BP_Character
+[2022.11.25-08.09.50:476][145]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2022.11.25-08.09.50:477][145]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-08.09.54:878][213]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.25-08.10.01:766][368]BlueprintLog: New page: Compile BP_FirstPersonGameMode
+[2022.11.25-08.10.01:817][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.25-08.10.02:421][380]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode
+[2022.11.25-08.10.02:421][380]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Saved/BP_FirstPersonGameModeCAE9971D42AD75BF9F507A909D99259C.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset'
+[2022.11.25-08.10.02:479][380]AssetCheck: New page: Asset Save: BP_FirstPersonGameMode
+[2022.11.25-08.10.02:479][380]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2022.11.25-08.10.02:804][385]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode
+[2022.11.25-08.10.02:804][385]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Saved/BP_FirstPersonGameModeF22309E946E0BCCA06896788496721A3.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset'
+[2022.11.25-08.10.02:859][385]AssetCheck: New page: Asset Save: BP_FirstPersonGameMode
+[2022.11.25-08.10.02:859][385]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2022.11.25-08.10.03:872][416]LogSlate: Window 'BP_FirstPersonGameMode' being destroyed
+[2022.11.25-08.10.03:915][416]LogSlate: Window 'BP_FirstPersonGameMode' being destroyed
+[2022.11.25-08.10.03:917][416]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.25-08.10.03:917][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-08.10.04:494][440]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode
+[2022.11.25-08.10.04:495][440]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Saved/BP_FirstPersonGameMode0B9BD08140D05E392E7846A71E898097.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset'
+[2022.11.25-08.10.04:551][440]AssetCheck: New page: Asset Save: BP_FirstPersonGameMode
+[2022.11.25-08.10.04:551][440]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2022.11.25-08.10.06:702][546]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.25-08.10.06:713][546]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.25-08.10.06:714][546]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.25-08.10.06:714][546]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.25-08.10.06:714][546]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.25-08.10.06:714][546]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.25-08.10.06:714][546]LogWorldPartition: Display: GetPartitionedActors took 346 us
+[2022.11.25-08.10.06:715][546]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.11.25-08.10.06:715][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.25-08.10.06:715][546]PIE: New page: PIE session: FirstPersonMap (25 Kas 2022 14:10:06)
+[2022.11.25-08.10.06:715][546]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.25-08.10.06:726][546]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.25-08.10.06:727][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011258s)
+[2022.11.25-08.10.06:727][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.011355s)
+[2022.11.25-08.10.06:727][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-08.10.06:727][546]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.25-08.10.06:727][546]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.25-08.10.06:727][546]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.25-08.10.06:729][546]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.25-08.10.06:729][546]LogPlayLevel: PIE: World Init took: (0.002944s)
+[2022.11.25-08.10.06:759][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.25-08.10.06:760][546]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.25-08.10.06:760][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.25-08.10.06:760][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.25-08.10.06:760][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.25-08.10.06:760][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.25-08.10.06:760][546]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.25-08.10.06:760][546]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.25-08.10.06:760][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.25-08.10.06:760][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.25-08.10.06:761][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.25-08.10.06:761][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.25-08.10.06:761][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.25-08.10.06:763][546]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.25-08.10.06:803][546]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2022.11.25-08.10.06:803][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.25-08.10.06:803][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.25-08.10.06:803][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.25-08.10.06:804][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.11.25-08.10.06:804][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.11.25-08.10.06:806][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.11.25-08.10.06:806][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.11.25-08.10.06:806][546]LogInit: FAudioDevice initialized.
+[2022.11.25-08.10.06:806][546]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2022.11.25-08.10.06:819][546]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.25-08.10.06:822][546]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.11.25-11.10.06
+[2022.11.25-08.10.06:822][546]LogWorld: Bringing up level for play took: 0.002872
+[2022.11.25-08.10.06:825][546]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.11.25-08.10.06:830][546]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.25-08.10.06:830][546]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.25-08.10.06:831][546]PIE: Server logged in
+[2022.11.25-08.10.06:832][546]PIE: Play in editor total start time 0,124 seconds.
+[2022.11.25-08.10.08:810][640]LogBlueprintUserMessages: [BP_Rifle_C_1] Cast to BP_FirstPersonCharacter FAILED
+[2022.11.25-08.10.09:667][693]LogBlueprintUserMessages: [BP_Rifle_C_1] Cast to BP_FirstPersonCharacter FAILED
+[2022.11.25-08.10.10:516][744]LogBlueprintUserMessages: [BP_Rifle_C_1] Cast to BP_FirstPersonCharacter FAILED
+[2022.11.25-08.10.12:451][860]LogBlueprintUserMessages: [BP_Rifle_C_1] Cast to BP_FirstPersonCharacter FAILED
+[2022.11.25-08.10.13:115][900]LogBlueprintUserMessages: [BP_Rifle_C_1] Cast to BP_FirstPersonCharacter FAILED
+[2022.11.25-08.10.15:799][ 61]LogBlueprintUserMessages: [BP_Rifle_C_1] Cast to BP_FirstPersonCharacter FAILED
+[2022.11.25-08.10.19:731][297]LogBlueprintUserMessages: [BP_Rifle_C_1] Cast to BP_FirstPersonCharacter FAILED
+[2022.11.25-08.10.21:347][394]LogBlueprintUserMessages: [BP_Rifle_C_1] Cast to BP_FirstPersonCharacter FAILED
+[2022.11.25-08.10.22:765][479]LogBlueprintUserMessages: [BP_Rifle_C_1] Cast to BP_FirstPersonCharacter FAILED
+[2022.11.25-08.10.59:657][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.25-08.10.59:657][689]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.25-08.10.59:657][689]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.25-08.10.59:657][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-08.10.59:671][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.25-08.10.59:675][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.25-08.10.59:698][689]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.25-08.10.59:698][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.25-08.10.59:700][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.25-08.10.59:704][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.25-08.10.59:707][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.11.25-08.10.59:734][690]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.11.25-08.11.09:274][959]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EfeCanoglu/BP_Character.BP_Character
+[2022.11.25-08.11.09:275][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.25-08.11.09:853][959]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.25-08.11.11:855][ 17]LogSlate: Window 'BP_Character' being destroyed
+[2022.11.25-08.11.59:609][288]LogSlate: Took 0.005316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.11.25-08.12.29:532][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EfeCanoglu/BP_Character" FILE="../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Content/EfeCanoglu/BP_Character.uasset" SILENT=true
+[2022.11.25-08.12.29:545][400]LogSavePackage: Moving output files for package: /Game/EfeCanoglu/BP_Character
+[2022.11.25-08.12.29:546][400]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Saved/BP_Character6FF3AD8E41CCB59ABC1DB99CF0A00E3A.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/UE5/GameJams/BUG_Fall_Jam/BUG_Fall_Jam/Content/EfeCanoglu/BP_Character.uasset'
+[2022.11.25-08.12.29:576][400]AssetCheck: New page: Asset Save: BP_Character
+[2022.11.25-08.12.29:576][400]LogContentValidation: Display: Validating Blueprint /Game/EfeCanoglu/BP_Character.BP_Character
