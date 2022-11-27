@@ -1,0 +1,1424 @@
+﻿Log file open, 11/27/22 13:56:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=15296)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BUG_Fall_Jam
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:\Jam Projects\FallJame\BUG_Fall_Jam\BUG_Fall_Jam\BUG_Fall_Jam.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.819] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="78e94be445adf15e6c073889b887306b"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.303837
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-65E945B84A62B345B0C36A8E42E835F7
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.14 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.14 seconds
+LogConfig: Display: Loading IOS ini files took 0.14 seconds
+LogConfig: Display: Loading Android ini files took 0.14 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.15 seconds
+LogConfig: Display: Loading Unix ini files took 0.17 seconds
+LogConfig: Display: Loading Windows ini files took 0.17 seconds
+LogConfig: Display: Loading TVOS ini files took 0.17 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.19 seconds
+LogConfig: Display: Loading Linux ini files took 0.19 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.819] (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal Engine Versions/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.27-10.56.19:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.27-10.56.19:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.27-10.56.19:090][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.27-10.56.19:091][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.27-10.56.19:093][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.27-10.56.19:093][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.27-10.56.19:093][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.27-10.56.19:093][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.27-10.56.19:093][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.27-10.56.19:093][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.27-10.56.19:093][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.27-10.56.19:093][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.27-10.56.19:093][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.27-10.56.19:093][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.27-10.56.19:093][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.27-10.56.19:114][  0]LogD3D12RHI: Aftermath initialized
+[2022.11.27-10.56.19:114][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.11.27-10.56.19:279][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3070 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.27-10.56.19:279][  0]LogD3D12RHI: Adapter has 8033MB of dedicated video memory, 0MB of dedicated system memory, and 16267MB of shared system memory, 1 output[s]
+[2022.11.27-10.56.19:364][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.27-10.56.19:364][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 16267MB of shared system memory, 0 output[s]
+[2022.11.27-10.56.19:382][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.11.27-10.56.19:382][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16267MB of shared system memory, 0 output[s]
+[2022.11.27-10.56.19:382][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.11.27-10.56.19:382][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.27-10.56.19:382][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.27-10.56.19:382][  0]LogHAL: Display: Platform has ~ 32 GB [34115739648 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.27-10.56.19:382][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.27-10.56.19:382][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.27-10.56.19:382][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.27-10.56.19:383][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.27-10.56.19:383][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.27-10.56.19:383][  0]LogInit: Computer: UTKUTUREMEN
+[2022.11.27-10.56.19:383][  0]LogInit: User: utkut
+[2022.11.27-10.56.19:383][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.27-10.56.19:383][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.27-10.56.19:383][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2022.11.27-10.56.19:383][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.27-10.56.19:383][  0]LogMemory: Process Physical Memory: 287.13 MB used, 291.65 MB peak
+[2022.11.27-10.56.19:383][  0]LogMemory: Process Virtual Memory: 259.31 MB used, 259.31 MB peak
+[2022.11.27-10.56.19:383][  0]LogMemory: Physical Memory: 12782.18 MB used,  19753.12 MB free, 32535.30 MB total
+[2022.11.27-10.56.19:383][  0]LogMemory: Virtual Memory: 14693.06 MB used,  22706.25 MB free, 37399.30 MB total
+[2022.11.27-10.56.19:383][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.27-10.56.19:411][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.27-10.56.19:445][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.27-10.56.19:446][  0]LogInit: Using OS detected language (en-US).
+[2022.11.27-10.56.19:446][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.27-10.56.19:452][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.11.27-10.56.19:577][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.27-10.56.19:592][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.27-10.56.19:592][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.11.27-10.56.19:592][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.11.27-10.56.19:592][  0]LogWindowsTextInputMethodSystem:   - Turkish (Turkey) - (Keyboard).
+[2022.11.27-10.56.19:592][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.11.27-10.56.19:615][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.27-10.56.19:615][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.27-10.56.19:905][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.11.27-10.56.19:909][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.11.27-10.56.19:909][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.11.27-10.56.19:982][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.11.27-10.56.19:982][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.11.27-10.56.19:982][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.11.27-10.56.19:982][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.11.27-10.56.19:982][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.11.27-10.56.19:982][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.11.27-10.56.19:982][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.11.27-10.56.19:982][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.11.27-10.56.19:983][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.11.27-10.56.19:983][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.11.27-10.56.19:983][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.11.27-10.56.19:983][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.11.27-10.56.19:983][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.11.27-10.56.19:983][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.11.27-10.56.19:983][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.11.27-10.56.19:983][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.11.27-10.56.20:013][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.11.27-10.56.20:018][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.11.27-10.56.20:032][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.11.27-10.56.20:044][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.11.27-10.56.20:044][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.11.27-10.56.20:074][  0]LogD3D12RHI:     GPU DeviceId: 0x24dd (for the marketing name, search the web for "GPU Device Id")
+[2022.11.27-10.56.20:074][  0]LogWindows: Attached monitors:
+[2022.11.27-10.56.20:074][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.11.27-10.56.20:074][  0]LogWindows: Found 1 attached monitors.
+[2022.11.27-10.56.20:074][  0]LogWindows: EnumDisplayDevices:
+[2022.11.27-10.56.20:074][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.11.27-10.56.20:075][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.11.27-10.56.20:075][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.27-10.56.20:075][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.27-10.56.20:075][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.11.27-10.56.20:075][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.11.27-10.56.20:075][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.11.27-10.56.20:075][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2022.11.27-10.56.20:076][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.11.27-10.56.20:076][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.11.27-10.56.20:076][  0]LogD3D12RHI:   Driver Version: 526.86 (internal:31.0.15.2686, unified:526.86)
+[2022.11.27-10.56.20:076][  0]LogD3D12RHI:      Driver Date: 11-8-2022
+[2022.11.27-10.56.20:076][  0]LogRHI: Texture pool is 4576 MB (70% of 6538 MB)
+[2022.11.27-10.56.20:076][  0]LogD3D12RHI: Async texture creation enabled
+[2022.11.27-10.56.20:076][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.11.27-10.56.20:084][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.11.27-10.56.20:098][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/BUG_Fall_Jam.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Intermediate/TurnkeyReport_0.log" -log="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Intermediate/TurnkeyLog_0.log" -project="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/BUG_Fall_Jam.uproject"  -platform=all'
+[2022.11.27-10.56.20:098][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Unreal Engine Versions/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/BUG_Fall_Jam.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Intermediate/TurnkeyReport_0.log" -log="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Intermediate/TurnkeyLog_0.log" -project="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/BUG_Fall_Jam.uproject"  -platform=all" ]
+[2022.11.27-10.56.20:148][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.27-10.56.20:161][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.27-10.56.20:161][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.27-10.56.20:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.27-10.56.20:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.27-10.56.20:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.27-10.56.20:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.27-10.56.20:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.27-10.56.20:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.27-10.56.20:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.27-10.56.20:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.27-10.56.20:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.27-10.56.20:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.27-10.56.20:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.27-10.56.20:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.27-10.56.20:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.27-10.56.20:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.27-10.56.20:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.27-10.56.20:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.27-10.56.20:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.27-10.56.20:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.27-10.56.20:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.27-10.56.20:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.27-10.56.20:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.27-10.56.20:207][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.27-10.56.20:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.27-10.56.20:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.27-10.56.20:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.27-10.56.20:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.27-10.56.20:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.27-10.56.20:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.27-10.56.20:219][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.27-10.56.20:232][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.27-10.56.20:238][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.27-10.56.20:238][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.27-10.56.20:238][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.27-10.56.20:238][  0]LogTargetPlatformManager:   PCM
+[2022.11.27-10.56.20:243][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.27-10.56.20:243][  0]LogTargetPlatformManager:   BINKA
+[2022.11.27-10.56.20:243][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.27-10.56.20:243][  0]LogTargetPlatformManager:   OGG
+[2022.11.27-10.56.20:243][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.27-10.56.20:243][  0]LogTargetPlatformManager:   OPUS
+[2022.11.27-10.56.20:311][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.27-10.56.20:322][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.27-10.56.20:323][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.27-10.56.20:328][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.27-10.56.20:328][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.27-10.56.20:329][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.27-10.56.20:329][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.27-10.56.20:329][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.27-10.56.20:329][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.27-10.56.20:329][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.27-10.56.20:329][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.27-10.56.20:329][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.27-10.56.20:329][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.27-10.56.20:329][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.27-10.56.20:329][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.27-10.56.20:333][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.27-10.56.20:333][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.27-10.56.20:333][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.27-10.56.20:333][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.27-10.56.20:348][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.27-10.56.20:349][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.27-10.56.20:349][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.27-10.56.20:355][  0]LogDerivedDataCache: Speed tests for C:/Users/utkut/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.27-10.56.20:355][  0]LogDerivedDataCache: Display: Performance to C:/Users/utkut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1058.15MBs, RandomWriteSpeed=181.96MBs. Assigned SpeedClass 'Local'
+[2022.11.27-10.56.20:356][  0]LogDerivedDataCache: Using Local data cache path C:/Users/utkut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.27-10.56.20:357][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.27-10.56.20:357][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.27-10.56.20:362][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.27-10.56.20:362][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.27-10.56.20:362][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Intermediate/Shaders/WorkingDirectory/18792/).
+[2022.11.27-10.56.20:362][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/utkut/AppData/Local/Temp/UnrealShaderWorkingDir/32E7218B41674F534FE3C2957D4C9B80/'.
+[2022.11.27-10.56.20:362][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.27-10.56.20:362][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.11.27-10.56.21:505][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.27-10.56.21:506][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.27-10.56.21:547][  0]LogAssetRegistry: FAssetRegistry took 0.0123 seconds to start up
+[2022.11.27-10.56.21:553][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.27-10.56.21:713][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.27-10.56.21:714][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.27-10.56.22:091][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.27-10.56.22:091][  0]LogDeviceProfileManager: Active device profile: [000007475EE02840][0000074753760000 50] WindowsEditor
+[2022.11.27-10.56.22:091][  0]LogDeviceProfileManager: Profiles: [000007475EE02300][0000074753762800 50] Windows, [000007475EE02840][0000074753760000 50] WindowsEditor, [000007475EE01F80][000007475376A000 50] WindowsServer, [000007475EE01DC0][0000074744217800 50] WindowsClient, [000007475EE01C00][0000074753717800 50] IOS, [000007475EE02F40][0000074753765000 50] iPadAir2, [000007475EE04EC0][000007475EE20000 50] IPadPro, [000007475EE05240][000007475EE22800 50] iPadAir3, [000007475EE047C0][000007475EE27800 50] iPadAir4, [000007475EE032C0][000007475EE2A000 50] iPadMini4, [000007475EE01500][000007475EE2C800 50] iPadMini5, [000007475EE05400][0000074753715000 50] iPadMini6, [000007475EE08880][000007475EDD2800 50] iPhone6S, [000007475EE08C00][000007475EDD0000 50] iPhone7, [000007475EE08500][000007475EDD5000 50] iPodTouch7, [000007475EE07E00][000007475EDDA000 50] iPhone6SPlus, [000007475EE00000][000007475EDDC800 50] iPhone7Plus, [000007475EE05B00][000007475EE25000 50] iPhoneSE, [000007475EE063C0][000007475EDD7800 50] iPhone8, [000007475EE01880][000007475EDF0000 50] iPhone8Plus, [000007475EE02A00][000007475EDF5000 50] iPhoneX, [000007475EE071C0][000007475EDF7800 50] iPhoneXS, [000007475EE01A40][000007475EDFA000 50] iPhoneXSMax, [000007475EE04B40][000007475EDFC800 50] iPhoneXR, [000007475EE08A40][000007475807C800 50] iPhone11, [000007475EE05940][000007475EE50000 50] iPhone11Pro, [000007475EE086C0][000007475EE55000 50] iPhone11ProMax, [000007475EE07FC0][000007475EE57800 50] iPhoneSE2, [000007475EE00FC0][000007475EE5A000 50] iPhone12Mini, [000007475EE06580][000007475EE5C800 50] iPhone12, [000007475EE00700][000007475EDF2800 50] iPhone12Pro, [000007475EE06200][000007475EE70000 50] iPhone12ProMax, [000007475EE03D40][000007475EE75000 50] iPhone13Mini, [000007475EE07380][000007475EE77800 50] iPhone13, [000007475EE03800][000007475EE7A000 50] iPhone13Pro, [000007475EE06740][000007475EE7C800 50] iPhone13ProMax, [000007475EE05CC0][000007475EE52800 50] iPadPro105, [000007475EE06AC0][000007475EE80000 50] iPadPro129, [000007475EE05080][000007475EE85000 50] iPadPro97, [000007475EE04D00][000007475EE87800 50] iPadPro2_129, [000007475EE03100][000007475EE8A000 50] iPad5, [000007475EE00380][000007475EE8C800 50] iPad6, [000007475EE06040][000007475EE72800 50] iPad7, [000007475EE01340][000007475EE90000 50] iPad8, [000007475EE07C40][000007475EE95000 50] iPad9, [000007475EE04600][000007475EE97800 50] iPadPro11, [000007475EE078C0][000007475EE9A000 50] iPadPro2_11, [000007475EE00E00][000007475EE9C800 50] iPadPro3_11, [000007475EE07700][000007475EE82800 50] iPadPro3_129, [000007475EE016C0][000007475EEA0000 50] iPadPro4_129, [000007475EE05780][000007475EEA5000 50] iPadPro5_129, [000007475EE008C0][000007475EEA7800 50] AppleTV, [000007475EE00C40][000007475EEAA000 50] AppleTV4K, [000007475EE001C0][000007475EEAC800 50] TVOS, [000007475EE0A800][000007475EEC0000 50] Mac, [000007475EE0AB80][000007475EEC2800 50] MacEditor, [000007475EE06E40][000007475EEC7800 50] MacClient, [000007475EE0A2C0][000007475EECA000 50] MacServer, [000007475EE0AD40][000007475EE92800 50] Linux, [000007475EE0B0C0][000007475EEA2800 50] LinuxEditor, [000007475EE04980][000007475EECC800 50] LinuxArm64Editor, [000007475EE09300][000007475EE30000 50] LinuxArm64, [000007475EE06900][000007475EE35000 50] LinuxClient, [000007475EE02D80][000007475EE37800 50] LinuxArm64Client, [000007475EE0B280][000007475EE3A000 50] LinuxServer, [000007475EE08DC0][000007475EE3C800 50] LinuxArm64Server, [000007475EE040C0][000007475EEC5000 50] Android, [000007475EE09A00][000007475EED0000 50] Android_Preview_OpenGL, [000007475EE08180][000007475EED5000 50] Android_Preview_Vulkan, [000007475EE09140][000007475EED7800 50] Android_Low, [000007475EE08340][000007475EEDA000 50] Android_Mid, [000007475EE03F00][000007475EEDC800 50] Android_High, [000007475EE00A80][000007475EE32800 50] Android_Default, [000007475EE094C0][000007475EEE0000 50] Android_Adreno4xx, [000007475EE02140][000007475EEE5000 50] Android_Adreno5xx_Low, [000007475EE0B440][000007475EEE7800 50] Android_Adreno5xx, [000007475EE04440][000007475EEEA000 50] Android_Adreno6xx, [000007475EE07540][000007475EEEC800 50] Android_Adreno6xx_Vulkan, [000007475EE03B80][000007475EED2800 50] Android_Adreno7xx, [000007475EE0B980][000007475EEF0000 50] Android_Adreno7xx_Vulkan, [000007475EE04280][000007475EEF5000 50] Android_Mali_T6xx, [000007475EE00540][000007475EEF7800 50] Android_Mali_T7xx, [000007475EE0A480][000007475EEFA000 50] Android_Mali_T8xx, [000007475EE07A80][000007475EEFC800 50] Android_Mali_G71, [000007475EE02BC0][000007475EEE2800 50] Android_Mali_G72, [000007475EE0BD00][000007475EF00000 50] Android_Mali_G72_Vulkan, [000007475EE055C0][000007475EF05000 50] Android_Mali_G76, [000007475EE08F80][000007475EF07800 50] Android_Mali_G76_Vulkan, [000007475EE09F40][000007475EF0A000 50] Android_Mali_G77, [000007475EE03480][000007475EF0C800 50] Android_Mali_G77_Vulkan, [000007475EE039C0][000007475EEF2800 50] Android_Mali_G78, [000007475EE02680][000007475EF10000 50] Android_Mali_G78_Vulkan, [000007475EE09840][000007475EF15000 50] Android_Mali_G710, [000007475EE0C5C0][000007475EF17800 50] Android_Mali_G710_Vulkan, [000007475EE0CCC0][000007475EF1A000 50] Android_Xclipse_920, [000007475EE0A100][000007475EF1C800 50] Android_Xclipse_920_Vulkan, [000007475EE0C080][000007475EF02800 50] Android_Vulkan_SM5, [000007475EE05E80][000007475EF20000 50] Android_PowerVR_G6xxx, [000007475EE0BEC0][000007475EF25000 50] Android_PowerVR_GT7xxx, [000007475EE0B600][000007475EF27800 50] Android_PowerVR_GE8xxx, [000007475EE0A9C0][000007475EF2A000 50] Android_PowerVR_GM9xxx, [000007475EE06C80][000007475EF2C800 50] Android_PowerVR_GM9xxx_Vulkan, [000007475EE09680][000007475EF12800 50] Android_TegraK1, [000007475EE0DE40][000007475EF30000 50] Android_Unknown_Vulkan, [000007475EE0CE80][000007475EF35000 50] Oculus_Quest, [000007475EE0D740][000007475EF37800 50] Oculus_Quest2, [000007475EE0D900][000007475EF3A000 50] HoloLens, 
+[2022.11.27-10.56.22:091][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.27-10.56.22:115][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.27-10.56.22:292][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.27-10.56.22:292][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.27-10.56.22:292][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.27-10.56.22:292][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.27-10.56.22:292][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.27-10.56.22:312][  0]LogNetVersion: BUG_Fall_Jam 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3865509378)
+[2022.11.27-10.56.22:424][  0]LogSlate: Border
+[2022.11.27-10.56.22:424][  0]LogSlate: BreadcrumbButton
+[2022.11.27-10.56.22:424][  0]LogSlate: Default
+[2022.11.27-10.56.22:424][  0]LogSlate: Icons.Save
+[2022.11.27-10.56.22:424][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.27-10.56.22:424][  0]LogSlate: ListView
+[2022.11.27-10.56.22:424][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.27-10.56.22:424][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.27-10.56.22:424][  0]LogSlate: TableView.DarkRow
+[2022.11.27-10.56.22:424][  0]LogSlate: TableView.Row
+[2022.11.27-10.56.22:424][  0]LogSlate: TreeView
+[2022.11.27-10.56.22:625][  0]SourceControl: Source control is disabled
+[2022.11.27-10.56.22:648][  0]SourceControl: Source control is disabled
+[2022.11.27-10.56.22:648][  0]SourceControl: Source control is disabled
+[2022.11.27-10.56.22:739][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.11.27-10.56.22:739][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.11.27-10.56.22:739][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.27-10.56.23:224][  0]LogPython: Using Python 3.9.7
+[2022.11.27-10.56.23:853][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 71BD153941892F29E6703C9B405C4F70 | Instance: 349C699846B36E444A86E296B1B38FF2 (UTKUTUREMEN-18792).
+[2022.11.27-10.56.23:901][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.27-10.56.23:906][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.27-10.56.24:306][  0]SourceControl: Source control is disabled
+[2022.11.27-10.56.24:309][  0]SourceControl: Source control is disabled
+[2022.11.27-10.56.24:320][  0]SourceControl: Source control is disabled
+[2022.11.27-10.56.24:329][  0]LogUProjectInfo: Found projects:
+[2022.11.27-10.56.24:334][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.27-10.56.24:334][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.27-10.56.24:335][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.27-10.56.24:353][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.27-10.56.24:434][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.27-10.56.24:459][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.27-10.56.24:459][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.27-10.56.24:550][  0]LogCollectionManager: Loaded 0 collections in 0.001231 seconds
+[2022.11.27-10.56.24:647][  0]LogFileCache: Scanning file cache for directory 'D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/Collections/' took 0.00s
+[2022.11.27-10.56.24:647][  0]LogFileCache: Scanning file cache for directory 'D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/Developers/utkut/Collections/' took 0.00s
+[2022.11.27-10.56.24:647][  0]LogFileCache: Scanning file cache for directory 'D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/Collections/' took 0.00s
+[2022.11.27-10.56.25:079][  0]LogEngine: Initializing Engine...
+[2022.11.27-10.56.25:091][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.27-10.56.25:092][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.27-10.56.25:320][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.27-10.56.25:320][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-10.56.25:333][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-10.56.25:364][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.27-10.56.25:364][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.27-10.56.25:389][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.27-10.56.25:390][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.27-10.56.25:390][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.27-10.56.25:390][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.27-10.56.25:390][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.27-10.56.25:390][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-10.56.25:390][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-10.56.25:390][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-10.56.25:390][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-10.56.25:390][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-10.56.25:390][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-10.56.25:390][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-10.56.25:390][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-10.56.25:390][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.27-10.56.25:390][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.27-10.56.25:390][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-10.56.25:404][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-10.56.25:462][  0]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair VOID ELITE USB Gaming Headset)
+[2022.11.27-10.56.25:462][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-10.56.25:465][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-10.56.25:465][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-10.56.25:465][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.27-10.56.25:465][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.27-10.56.25:467][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.27-10.56.25:467][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.27-10.56.25:467][  0]LogInit: FAudioDevice initialized.
+[2022.11.27-10.56.25:467][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.27-10.56.25:467][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.27-10.56.25:467][  0]LogInit: Texture streaming: Enabled
+[2022.11.27-10.56.25:507][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.27-10.56.25:519][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.27-10.56.25:557][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.27-10.56.25:566][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.27-10.56.25:566][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.27-10.56.28:685][  0]LogLiveCoding: Display: First instance in process group "UE_BUG_Fall_Jam_0xe2c54598", spawning console
+[2022.11.27-10.56.28:685][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.27-10.56.28:685][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.27-10.56.28:796][  0]LogInit: Transaction tracking system initialized
+[2022.11.27-10.56.28:873][  0]BlueprintLog: New page: Editor Load
+[2022.11.27-10.56.29:089][  0]LocalizationService: Localization service is disabled
+[2022.11.27-10.56.29:145][  0]TimingProfiler: Initialize
+[2022.11.27-10.56.29:145][  0]TimingProfiler: OnSessionChanged
+[2022.11.27-10.56.29:145][  0]LoadingProfiler: Initialize
+[2022.11.27-10.56.29:145][  0]LoadingProfiler: OnSessionChanged
+[2022.11.27-10.56.29:145][  0]NetworkingProfiler: Initialize
+[2022.11.27-10.56.29:145][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.27-10.56.29:145][  0]MemoryProfiler: Initialize
+[2022.11.27-10.56.29:145][  0]MemoryProfiler: OnSessionChanged
+[2022.11.27-10.56.29:340][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.27-10.56.29:341][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.27-10.56.29:341][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.27-10.56.29:966][  0]LogFileCache: Scanning file cache for directory 'D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/' took 0.01s
+[2022.11.27-10.56.29:966][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.27-10.56.30:041][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.27-10.56.30:043][  0]SourceControl: Source control is disabled
+[2022.11.27-10.56.30:043][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.195
+[2022.11.27-10.56.30:043][  0]Cmd: MAP LOAD FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuLevels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.27-10.56.30:044][  0]LightingResults: New page: Lighting Build
+[2022.11.27-10.56.30:050][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-10.56.30:050][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-10.56.30:050][  0]MapCheck: New page: Map Check
+[2022.11.27-10.56.30:050][  0]LightingResults: New page: Lighting Build
+[2022.11.27-10.56.30:056][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-10.56.30:059][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.27-10.56.30:077][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.11.27-10.56.30:077][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-10.56.30:077][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-10.56.30:077][  0]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.27-10.56.30:078][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.27-10.56.30:085][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.11.27-10.56.30:085][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.27-10.56.30:085][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.235ms to complete.
+[2022.11.27-10.56.30:085][  0]LogFileHelpers: Loading map 'MainMenu' took 0.041
+[2022.11.27-10.56.30:100][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.251
+[2022.11.27-10.56.30:100][  0]LogShaderCompilers: Display: ================================================
+[2022.11.27-10.56.30:100][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.27-10.56.30:100][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.27-10.56.30:100][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.27-10.56.30:100][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.11.27-10.56.30:100][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.27-10.56.30:100][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.27-10.56.30:100][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.27-10.56.30:100][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.27-10.56.30:100][  0]LogShaderCompilers: Display: ================================================
+[2022.11.27-10.56.30:195][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.27-10.56.30:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-10.56.30:207][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-10.56.30:210][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-10.56.30:214][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-10.56.30:233][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine Versions/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.27-10.56.30:233][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.27-10.56.30:234][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine Versions/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.27-10.56.30:234][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.27-10.56.30:235][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine Versions/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.27-10.56.30:235][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.27-10.56.30:236][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine Versions/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.27-10.56.30:236][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.27-10.56.30:237][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine Versions/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.27-10.56.30:237][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.27-10.56.30:237][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine Versions/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.27-10.56.30:237][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.27-10.56.30:238][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine Versions/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.27-10.56.30:238][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.27-10.56.30:239][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine Versions/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.27-10.56.30:239][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.27-10.56.30:240][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine Versions/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.27-10.56.30:240][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.27-10.56.30:241][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine Versions/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.27-10.56.30:241][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.27-10.56.30:241][  0]LogFeaturePack: Error: Error in Feature pack D:/Unreal Engine Versions/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.27-10.56.30:427][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.27-10.56.30:429][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.27-10.56.30:431][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.27-10.56.30:432][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.27-10.56.30:433][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.27-10.56.30:457][  0]LogViewport: Scene viewport resized to 1078x474, mode Windowed.
+[2022.11.27-10.56.30:923][  0]LogStall: Startup...
+[2022.11.27-10.56.30:924][  0]LogStall: Startup complete.
+[2022.11.27-10.56.30:968][  0]LogLoad: (Engine Initialization) Total time: 14.12 seconds
+[2022.11.27-10.56.30:968][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.27-10.56.31:014][  0]LogAssetRegistry: Asset discovery search completed in 9.4689 seconds
+[2022.11.27-10.56.31:021][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.11.27-10.56.31:042][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.27-10.56.31:137][  2]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.27-10.56.43:785][469]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
+[2022.11.27-10.56.43:785][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-10.56.43:791][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-10.56.43:799][469]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.11.27-10.56.44:558][469]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-10.56.44:558][469]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-10.56.44:622][469]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.27-10.56.44:631][469]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.11.27-10.56.47:016][707]LogSlate: Window 'WB_EndGame' being destroyed
+[2022.11.27-10.56.48:041][817]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-10.56.48:041][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-10.56.48:045][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-10.56.48:430][817]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-10.56.48:430][817]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-10.56.53:431][381]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_MainMenu.WB_MainMenu
+[2022.11.27-10.56.53:432][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-10.56.53:439][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-10.56.53:697][381]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-10.56.53:697][381]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-10.57.00:950][208]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-10.57.00:950][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-10.57.00:957][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-10.57.01:206][208]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-10.57.01:227][208]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-10.57.01:227][208]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-10.57.04:163][542]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-10.57.04:163][542]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-10.57.04:169][542]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-10.57.04:440][542]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-10.57.04:440][542]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-10.57.06:448][769]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot3.WB_Loot3
+[2022.11.27-10.57.06:448][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-10.57.06:455][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-10.57.06:718][769]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-10.57.06:718][769]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-10.57.14:475][659]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-10.57.45:871][343]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.27-10.57.51:753][ 11]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-10.57.57:391][653]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-10.57.58:693][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-10.57.58:700][795]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007957 seconds
+[2022.11.27-10.57.59:808][795]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-10.57.59:810][795]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_LootF9DE126446E8D1FED4268BA68B805251.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-10.57.59:828][795]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-10.57.59:828][795]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-10.58.03:150][167]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-10.58.16:775][736]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-10.58.18:446][929]BlueprintLog: New page: Compile WB_Loot
+[2022.11.27-10.58.18:532][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.11.27-10.58.18:877][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-10.58.20:016][929]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-10.58.20:018][929]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot5B451C3D440CBA97E7AFA3BDF6487E18.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-10.58.20:058][929]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-10.58.20:058][929]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-10.58.20:984][ 28]LogDerivedDataCache: C:/Users/utkut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.626 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.27-10.58.57:024][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-10.58.58:180][297]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-10.58.58:181][297]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot18FB5AD349638A42DD8B0588FBF04E7E.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-10.58.58:197][297]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-10.58.58:197][297]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-10.58.58:537][335]BlueprintLog: New page: Compile WB_Loot
+[2022.11.27-10.58.58:608][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.27-10.59.01:647][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-10.59.02:680][655]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-10.59.02:682][655]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot7BF4EEEF49811B6D0C3115808409833A.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-10.59.02:697][655]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-10.59.02:699][655]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-10.59.28:837][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-10.59.29:897][267]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-10.59.29:899][267]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot8862A67A463D39E401B5C0983C8B55E2.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-10.59.29:916][267]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-10.59.29:916][267]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-10.59.30:269][309]BlueprintLog: New page: Compile WB_Loot
+[2022.11.27-10.59.30:341][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.11.27-10.59.49:951][309]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-10.59.55:084][897]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.00.00:092][469]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.00.03:728][874]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.00.21:732][795]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2022.11.27-11.00.21:735][795]LogSlate: Took 0.001876 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.11.27-11.00.48:157][625]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.00.54:051][314]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.01.03:859][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-11.01.05:000][440]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-11.01.05:002][440]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot2E7D622245B3EF791A6BD082EB073AB6.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-11.01.05:022][440]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-11.01.05:022][440]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.01.05:309][474]BlueprintLog: New page: Compile WB_Loot
+[2022.11.27-11.01.05:388][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.27-11.01.10:192][995]BlueprintLog: New page: Compile WB_Loot
+[2022.11.27-11.01.10:258][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.11.27-11.01.10:513][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-11.01.11:648][995]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-11.01.11:650][995]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_LootB23399314ED30FF54C7A02958F1DA922.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-11.01.11:692][995]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-11.01.11:692][995]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.01.19:111][851]LogLinker: Warning: [AssetLog] D:\Jam Projects\FallJame\BUG_Fall_Jam\BUG_Fall_Jam\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4': Can't find file.
+[2022.11.27-11.01.19:111][851]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2022.11.27-11.01.19:111][851]LogLinker: Warning: [AssetLog] D:\Jam Projects\FallJame\BUG_Fall_Jam\BUG_Fall_Jam\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige': Can't find file.
+[2022.11.27-11.01.19:111][851]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2022.11.27-11.01.19:112][851]LogLinker: Warning: [AssetLog] D:\Jam Projects\FallJame\BUG_Fall_Jam\BUG_Fall_Jam\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/FPWeapon/Materials/MaterialLayers/ML_Screen': Can't find file.
+[2022.11.27-11.01.19:112][851]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2022.11.27-11.01.19:112][851]LogLinker: Warning: [AssetLog] D:\Jam Projects\FallJame\BUG_Fall_Jam\BUG_Fall_Jam\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4': Can't find file.
+[2022.11.27-11.01.19:112][851]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2022.11.27-11.01.19:130][851]LogMaterial: Display: Missing cached shadermap for M_FPGun in PCD3D_SM5, Default, SM5 (DDC key hash: 5473146A637430C0A7956D496EC5D2B48E051277), compiling. 
+[2022.11.27-11.01.19:132][851]LogMaterial: Warning: [AssetLog] D:\Jam Projects\FallJame\BUG_Fall_Jam\BUG_Fall_Jam\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+
+[2022.11.27-11.01.20:981][ 44]BlueprintLog: New page: Compile WB_Loot
+[2022.11.27-11.01.21:049][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.27-11.01.21:375][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-11.01.22:496][ 44]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-11.01.22:497][ 44]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot3371B64F44A4351B1A7EA58B06792228.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-11.01.22:540][ 44]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-11.01.22:540][ 44]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.01.29:411][775]BlueprintLog: New page: Compile WB_Loot
+[2022.11.27-11.01.29:482][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.11.27-11.01.29:747][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-11.01.30:870][775]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-11.01.30:872][775]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_LootAEA44D274C74F654662BDD8A974EFD7A.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-11.01.30:916][775]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-11.01.30:916][775]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.01.32:651][969]LogEditorTransaction: Undo Edit Outline Material
+[2022.11.27-11.01.48:121][741]BlueprintLog: New page: Compile WB_Loot
+[2022.11.27-11.01.48:191][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.11.27-11.01.48:445][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-11.01.49:596][741]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-11.01.49:599][741]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot629A884D494E8FB425E77791CB32E257.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-11.01.49:643][741]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-11.01.49:643][741]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.01.51:069][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-11.01.52:200][872]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-11.01.52:201][872]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_LootA619B0744AF5936E1A64B085BCE981FE.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-11.01.52:217][872]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-11.01.52:217][872]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.02.32:323][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-11.02.33:470][574]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-11.02.33:472][574]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_LootA39832E84657E3675EEA3EBA0CC03FA2.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-11.02.33:489][574]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-11.02.33:489][574]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.02.46:400][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.02.47:252][813]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.02.47:254][813]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot1D5F0A5A84C23C5AAE8EE0097FFA0AD01.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.02.47:269][813]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.02.47:270][813]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.02.47:609][853]BlueprintLog: New page: Compile WB_Loot1
+[2022.11.27-11.02.47:682][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.11.27-11.02.54:880][642]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.03.06:730][953]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.03.08:413][147]BlueprintLog: New page: Compile WB_Loot1
+[2022.11.27-11.03.08:480][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.27-11.03.08:733][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.03.09:665][147]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.03.09:667][147]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot10DFBECCD400738C2CB16D0B7DD7C297F.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.03.09:711][147]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.03.09:711][147]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.03.30:300][318]BlueprintLog: New page: Compile WB_Loot1
+[2022.11.27-11.03.30:369][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.27-11.03.30:631][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.03.31:575][318]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.03.31:649][318]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot1B47B21674FF85DA76DCE729B3C6AD852.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.03.31:695][318]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.03.31:695][318]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.03.32:787][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.03.33:711][428]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.03.33:713][428]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot1053BD1A9437CF22132CC60B9BB48BD2C.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.03.33:729][428]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.03.33:729][428]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.03.47:097][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.03.48:023][989]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.03.48:025][989]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot1BCFE7AD74141FE320A402AA6FD618191.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.03.48:041][989]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.03.48:041][989]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.03.48:301][ 20]BlueprintLog: New page: Compile WB_Loot1
+[2022.11.27-11.03.48:372][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.11.27-11.03.49:235][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.03.50:166][101]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.03.50:168][101]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot11F78A2184CA1406002FB09AD11BD3986.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.03.50:185][101]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.03.50:185][101]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.03.51:248][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.03.52:186][204]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.03.52:188][204]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot102876A1D47B21F642A81C5BA432225A4.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.03.52:205][204]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.03.52:205][204]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.04.08:628][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.04.09:590][866]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.04.09:592][866]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot17F28D6824D49E956FE85AFB22BD1555E.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.04.09:610][866]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.04.09:610][866]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.04.09:954][907]BlueprintLog: New page: Compile WB_Loot1
+[2022.11.27-11.04.10:022][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.11.27-11.04.44:973][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.04.45:903][395]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.04.45:905][395]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot10E2BE08C4E8B61CF514381B79D1BBFBD.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.04.45:921][395]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.04.45:921][395]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.05.03:712][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.05.04:618][257]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.05.04:620][257]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot1A1A61C99436CE5B36F54F09CF3152C65.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.05.04:637][257]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.05.04:637][257]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.05.14:294][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot2" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset" SILENT=true
+[2022.11.27-11.05.15:148][999]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot2
+[2022.11.27-11.05.15:149][999]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot250F2E8894CDC2344AC9070AD761580E1.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset'
+[2022.11.27-11.05.15:166][999]AssetCheck: New page: Asset Save: WB_Loot2
+[2022.11.27-11.05.15:166][999]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.05.24:791][ 91]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.05.26:554][274]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.05.29:911][641]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.05.31:706][825]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.06.28:624][899]BlueprintLog: New page: Compile WB_Loot2
+[2022.11.27-11.06.28:703][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.11.27-11.06.28:979][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot2" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset" SILENT=true
+[2022.11.27-11.06.29:900][899]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot2
+[2022.11.27-11.06.29:902][899]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot2B20C521B4B2BE62A6756BDB66374C1D6.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset'
+[2022.11.27-11.06.29:950][899]AssetCheck: New page: Asset Save: WB_Loot2
+[2022.11.27-11.06.29:950][899]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.06.59:868][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot2" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset" SILENT=true
+[2022.11.27-11.07.00:780][831]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot2
+[2022.11.27-11.07.00:782][831]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot24243CA6D408550025382EF9FBB41666F.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset'
+[2022.11.27-11.07.00:800][831]AssetCheck: New page: Asset Save: WB_Loot2
+[2022.11.27-11.07.00:800][831]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.07.01:532][918]BlueprintLog: New page: Compile WB_Loot2
+[2022.11.27-11.07.01:604][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.11.27-11.07.09:009][729]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.07.17:112][606]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.07.18:213][733]BlueprintLog: New page: Compile WB_Loot2
+[2022.11.27-11.07.18:283][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.27-11.07.18:547][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot2" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset" SILENT=true
+[2022.11.27-11.07.19:550][733]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot2
+[2022.11.27-11.07.19:552][733]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot255718A3041568FC8892D298E34060020.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset'
+[2022.11.27-11.07.19:601][733]AssetCheck: New page: Asset Save: WB_Loot2
+[2022.11.27-11.07.19:601][733]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.07.25:887][451]BlueprintLog: New page: Compile WB_Loot2
+[2022.11.27-11.07.25:957][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.11.27-11.07.26:023][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot2" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset" SILENT=true
+[2022.11.27-11.07.27:047][451]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot2
+[2022.11.27-11.07.27:049][451]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot2C19DEC344F272008294960886C14E8D8.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset'
+[2022.11.27-11.07.27:066][451]AssetCheck: New page: Asset Save: WB_Loot2
+[2022.11.27-11.07.27:066][451]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.07.32:943][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot2" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset" SILENT=true
+[2022.11.27-11.07.33:967][121]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot2
+[2022.11.27-11.07.33:969][121]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot2E25D22C0412BA69AC41AD28385E924D4.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset'
+[2022.11.27-11.07.33:985][121]AssetCheck: New page: Asset Save: WB_Loot2
+[2022.11.27-11.07.33:985][121]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.07.41:420][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot3" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot3.uasset" SILENT=true
+[2022.11.27-11.07.42:229][989]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot3
+[2022.11.27-11.07.42:231][989]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot3E08EA0B14FA4CD015284A1AABAEE96D8.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot3.uasset'
+[2022.11.27-11.07.42:249][989]AssetCheck: New page: Asset Save: WB_Loot3
+[2022.11.27-11.07.42:249][989]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot3.WB_Loot3
+[2022.11.27-11.08.00:824][685]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.08.02:444][849]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.08.04:476][ 63]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.08.08:079][456]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.08.31:847][722]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.08.43:134][981]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.08.44:293][117]BlueprintLog: New page: Compile WB_Loot3
+[2022.11.27-11.08.44:365][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.27-11.08.44:693][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot3" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot3.uasset" SILENT=true
+[2022.11.27-11.08.45:669][117]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot3
+[2022.11.27-11.08.45:670][117]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot3BA835EA84B235D931F0B08AF0BEDA34A.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot3.uasset'
+[2022.11.27-11.08.45:723][117]AssetCheck: New page: Asset Save: WB_Loot3
+[2022.11.27-11.08.45:723][117]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot3.WB_Loot3
+[2022.11.27-11.08.50:885][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot3" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot3.uasset" SILENT=true
+[2022.11.27-11.08.51:860][694]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot3
+[2022.11.27-11.08.51:862][694]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot375F350D343008A3AE1201AAE15A246AB.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot3.uasset'
+[2022.11.27-11.08.51:879][694]AssetCheck: New page: Asset Save: WB_Loot3
+[2022.11.27-11.08.51:879][694]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot3.WB_Loot3
+[2022.11.27-11.08.53:674][905]BlueprintLog: New page: Compile WB_Loot3
+[2022.11.27-11.08.53:745][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.27-11.09.04:824][135]BlueprintLog: New page: Compile WB_Loot3
+[2022.11.27-11.09.04:891][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.27-11.09.05:178][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot3" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot3.uasset" SILENT=true
+[2022.11.27-11.09.06:164][135]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot3
+[2022.11.27-11.09.06:166][135]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot31FFA845044358A96A459A2B3B295BB1D.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot3.uasset'
+[2022.11.27-11.09.06:221][135]AssetCheck: New page: Asset Save: WB_Loot3
+[2022.11.27-11.09.06:221][135]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot3.WB_Loot3
+[2022.11.27-11.09.19:331][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot3" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot3.uasset" SILENT=true
+[2022.11.27-11.09.20:316][589]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot3
+[2022.11.27-11.09.20:318][589]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot307AD58A641AD7C86EFA80389F6CDF8FC.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot3.uasset'
+[2022.11.27-11.09.20:334][589]AssetCheck: New page: Asset Save: WB_Loot3
+[2022.11.27-11.09.20:334][589]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot3.WB_Loot3
+[2022.11.27-11.09.21:376][714]BlueprintLog: New page: Compile WB_Loot3
+[2022.11.27-11.09.21:444][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.27-11.09.22:761][861]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.09.22:761][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.09.22:775][861]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.09.22:775][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.09.23:488][936]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.09.23:488][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.09.23:502][936]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.09.23:502][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.09.24:172][  7]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.09.24:172][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.09.24:185][  7]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.09.24:185][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.09.24:897][ 81]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.09.24:897][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.09.24:914][ 81]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.09.24:914][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.09.37:801][573]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.09.47:175][673]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.09.49:260][901]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.09.51:135][105]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.10.26:102][920]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.11.03:831][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_EndGame" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset" SILENT=true
+[2022.11.27-11.11.04:730][864]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_EndGame
+[2022.11.27-11.11.04:732][864]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_EndGame221F567A427A9F60C25F2884C6A7C816.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset'
+[2022.11.27-11.11.04:755][864]AssetCheck: New page: Asset Save: WB_EndGame
+[2022.11.27-11.11.04:755][864]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
+[2022.11.27-11.11.05:173][914]BlueprintLog: New page: Compile WB_EndGame
+[2022.11.27-11.11.05:233][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.11.27-11.11.11:700][631]BlueprintLog: New page: Compile WB_EndGame
+[2022.11.27-11.11.11:748][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.27-11.11.12:005][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_EndGame" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset" SILENT=true
+[2022.11.27-11.11.13:052][631]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_EndGame
+[2022.11.27-11.11.13:054][631]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_EndGame401E43414350EE502DB8E68C7C3A6A7A.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset'
+[2022.11.27-11.11.13:091][631]AssetCheck: New page: Asset Save: WB_EndGame
+[2022.11.27-11.11.13:091][631]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
+[2022.11.27-11.11.19:354][349]BlueprintLog: New page: Compile WB_EndGame
+[2022.11.27-11.11.19:401][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.27-11.11.19:660][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_EndGame" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset" SILENT=true
+[2022.11.27-11.11.20:737][349]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_EndGame
+[2022.11.27-11.11.20:739][349]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_EndGame00CC5B724E296919BBB719A1B21B0E38.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset'
+[2022.11.27-11.11.20:776][349]AssetCheck: New page: Asset Save: WB_EndGame
+[2022.11.27-11.11.20:776][349]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
+[2022.11.27-11.11.23:994][719]BlueprintLog: New page: Compile WB_EndGame
+[2022.11.27-11.11.24:043][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.11.27-11.11.24:298][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_EndGame" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset" SILENT=true
+[2022.11.27-11.11.25:342][719]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_EndGame
+[2022.11.27-11.11.25:344][719]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_EndGame29C1E1934AAE177D5B291A9B3E94A737.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset'
+[2022.11.27-11.11.25:380][719]AssetCheck: New page: Asset Save: WB_EndGame
+[2022.11.27-11.11.25:380][719]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
+[2022.11.27-11.11.58:461][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_EndGame" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset" SILENT=true
+[2022.11.27-11.11.59:520][597]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_EndGame
+[2022.11.27-11.11.59:522][597]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_EndGameD688E4A745D4493551BF58A41D069899.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset'
+[2022.11.27-11.11.59:536][597]AssetCheck: New page: Asset Save: WB_EndGame
+[2022.11.27-11.11.59:536][597]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
+[2022.11.27-11.12.00:017][652]BlueprintLog: New page: Compile WB_EndGame
+[2022.11.27-11.12.00:067][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.27-11.12.08:827][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_EndGame" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset" SILENT=true
+[2022.11.27-11.12.09:882][588]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_EndGame
+[2022.11.27-11.12.09:885][588]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_EndGame68F0ECA045CFF236B6F90E9C6B9ECB81.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset'
+[2022.11.27-11.12.09:902][588]AssetCheck: New page: Asset Save: WB_EndGame
+[2022.11.27-11.12.09:902][588]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
+[2022.11.27-11.12.10:374][644]BlueprintLog: New page: Compile WB_EndGame
+[2022.11.27-11.12.10:422][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.27-11.12.15:024][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_EndGame" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset" SILENT=true
+[2022.11.27-11.12.16:083][140]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_EndGame
+[2022.11.27-11.12.16:085][140]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_EndGameBD8ABF1C4E1DBD17EB95EE972585BDFA.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset'
+[2022.11.27-11.12.16:101][140]AssetCheck: New page: Asset Save: WB_EndGame
+[2022.11.27-11.12.16:101][140]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
+[2022.11.27-11.12.17:234][271]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.12.17:234][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.12.17:249][271]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.12.17:249][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.12.19:725][556]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.12.19:726][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.12.19:739][556]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.12.19:739][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.12.23:887][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.11.27-11.12.24:201][ 25]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuLevels/MainMenu
+[2022.11.27-11.12.24:202][ 25]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/MainMenu6BC438854B35579874042C934F907B42.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuLevels/MainMenu.umap'
+[2022.11.27-11.12.24:232][ 25]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.27-11.12.24:232][ 25]LogContentValidation: Display: Validating World /Game/UtkuTuremen/MenuLevels/MainMenu.MainMenu
+[2022.11.27-11.12.24:782][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.11.27-11.12.24:843][ 87]LogLinker: Warning: [AssetLog] D:\Jam Projects\FallJame\BUG_Fall_Jam\BUG_Fall_Jam\Content\UtkuTuremen\Platforms\kanca.uasset: Failed to load '/Game/UtkuTuremen/Platforms/scratched-and-scraped-metal-texture-2_Mat': Can't find file.
+[2022.11.27-11.12.24:843][ 87]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/UtkuTuremen/Platforms/scratched-and-scraped-metal-texture-2_Mat'
+[2022.11.27-11.12.25:045][ 87]LogLinker: Warning: [AssetLog] D:\Jam Projects\FallJame\BUG_Fall_Jam\BUG_Fall_Jam\Content\UtkuTuremen\FBX\Cehennem_Cube.uasset: Failed to load '/Game/UtkuTuremen/FBX/Material': Can't find file.
+[2022.11.27-11.12.25:045][ 87]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/UtkuTuremen/FBX/Material'
+[2022.11.27-11.12.25:052][ 87]LogLinker: Warning: [AssetLog] D:\Jam Projects\FallJame\BUG_Fall_Jam\BUG_Fall_Jam\Content\UtkuTuremen\Platforms\Kazan__1_.uasset: Failed to load '/Game/UtkuTuremen/Platforms/Material_004': Can't find file.
+[2022.11.27-11.12.25:052][ 87]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/UtkuTuremen/Platforms/Material_004'
+[2022.11.27-11.12.25:110][ 87]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: E2838732F4A75152ED70FD558AE52294BA61B475), compiling. 
+[2022.11.27-11.12.25:112][ 87]LogMaterial: Warning: [AssetLog] D:\Jam Projects\FallJame\BUG_Fall_Jam\BUG_Fall_Jam\Content\FirstPersonArms\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Missing Material Function
+
+[2022.11.27-11.12.25:229][ 87]LogAssetEditorSubsystem: Opening Asset editor for World /Game/UtkuTuremen/GameLevel/Level1.Level1
+[2022.11.27-11.12.25:230][ 87]Cmd: MAP LOAD FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/GameLevel/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.27-11.12.25:230][ 87]LightingResults: New page: Lighting Build
+[2022.11.27-11.12.25:230][ 87]LoadErrors: New page: Loading map: Level1.umap
+[2022.11.27-11.12.25:231][ 87]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.12.25:231][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.12.25:231][ 87]MapCheck: New page: Map Check
+[2022.11.27-11.12.25:231][ 87]LightingResults: New page: Lighting Build
+[2022.11.27-11.12.25:247][ 87]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-11.12.25:251][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.11.27-11.12.25:253][ 87]LogShaderCompilers: Display: ================================================
+[2022.11.27-11.12.25:253][ 87]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.27-11.12.25:253][ 87]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.27-11.12.25:253][ 87]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.27-11.12.25:253][ 87]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.11.27-11.12.25:253][ 87]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.27-11.12.25:253][ 87]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.27-11.12.25:253][ 87]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.27-11.12.25:253][ 87]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.27-11.12.25:253][ 87]LogShaderCompilers: Display: ================================================
+[2022.11.27-11.12.25:260][ 87]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.12.25:260][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.12.25:279][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.27-11.12.25:297][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.11.27-11.12.25:304][ 87]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2022.11.27-11.12.25:304][ 87]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-11.12.25:304][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.12.25:305][ 87]LogAIModule: Creating AISystem for world Level1
+[2022.11.27-11.12.25:320][ 87]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.27-11.12.25:339][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.11.27-11.12.25:355][ 87]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.27-11.12.25:356][ 87]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2022.11.27-11.12.25:356][ 87]LogFileHelpers: Loading map 'Level1' took 0.126
+[2022.11.27-11.12.26:647][192]LogViewport: Scene viewport resized to 1078x478, mode Windowed.
+[2022.11.27-11.12.26:676][194]LogViewport: Scene viewport resized to 1078x488, mode Windowed.
+[2022.11.27-11.12.26:698][195]LogViewport: Scene viewport resized to 1078x502, mode Windowed.
+[2022.11.27-11.12.26:736][197]LogViewport: Scene viewport resized to 1078x562, mode Windowed.
+[2022.11.27-11.12.26:767][199]LogViewport: Scene viewport resized to 1078x608, mode Windowed.
+[2022.11.27-11.12.26:800][201]LogViewport: Scene viewport resized to 1078x628, mode Windowed.
+[2022.11.27-11.12.26:836][203]LogViewport: Scene viewport resized to 1078x635, mode Windowed.
+[2022.11.27-11.12.26:869][205]LogViewport: Scene viewport resized to 1078x638, mode Windowed.
+[2022.11.27-11.12.26:914][209]LogViewport: Scene viewport resized to 1078x644, mode Windowed.
+[2022.11.27-11.12.31:413][723]LogViewport: Scene viewport resized to 1078x634, mode Windowed.
+[2022.11.27-11.12.31:445][725]LogViewport: Scene viewport resized to 1078x600, mode Windowed.
+[2022.11.27-11.12.31:473][727]LogViewport: Scene viewport resized to 1078x574, mode Windowed.
+[2022.11.27-11.12.31:501][729]LogViewport: Scene viewport resized to 1078x561, mode Windowed.
+[2022.11.27-11.12.31:541][730]LogViewport: Scene viewport resized to 1078x557, mode Windowed.
+[2022.11.27-11.12.33:863][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.27-11.12.39:024][795]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/GameLevel/Level1
+[2022.11.27-11.12.39:026][795]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/Level13AA21A234474C81197119BABAD66FC3F.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/GameLevel/Level1.umap'
+[2022.11.27-11.12.39:062][795]AssetCheck: New page: Asset Save: Level1
+[2022.11.27-11.12.39:062][795]LogContentValidation: Display: Validating World /Game/UtkuTuremen/GameLevel/Level1.Level1
+[2022.11.27-11.14.01:604][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.11.27-11.14.06:771][152]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/GameLevel/Level1
+[2022.11.27-11.14.06:773][152]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/Level1A2BD903345D73B670079D687F07B5E6E.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/GameLevel/Level1.umap'
+[2022.11.27-11.14.06:805][152]AssetCheck: New page: Asset Save: Level1
+[2022.11.27-11.14.06:805][152]LogContentValidation: Display: Validating World /Game/UtkuTuremen/GameLevel/Level1.Level1
+[2022.11.27-11.14.15:897][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.27-11.14.16:021][120]LogAssetEditorSubsystem: Opening Asset editor for World /Game/UtkuTuremen/GameLevel/Level2.Level2
+[2022.11.27-11.14.16:021][120]Cmd: MAP LOAD FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/GameLevel/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.27-11.14.16:022][120]LightingResults: New page: Lighting Build
+[2022.11.27-11.14.16:022][120]LoadErrors: New page: Loading map: Level2.umap
+[2022.11.27-11.14.16:023][120]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.14.16:023][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.14.16:023][120]MapCheck: New page: Map Check
+[2022.11.27-11.14.16:023][120]LightingResults: New page: Lighting Build
+[2022.11.27-11.14.16:040][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-11.14.16:044][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.27-11.14.16:055][120]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.14.16:055][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.14.16:074][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.11.27-11.14.16:091][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.27-11.14.16:099][120]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2022.11.27-11.14.16:099][120]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-11.14.16:099][120]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.14.16:099][120]LogAIModule: Creating AISystem for world Level2
+[2022.11.27-11.14.16:121][120]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.27-11.14.16:142][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.11.27-11.14.16:158][120]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.27-11.14.16:159][120]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.983ms to complete.
+[2022.11.27-11.14.16:159][120]LogFileHelpers: Loading map 'Level2' took 0.138
+[2022.11.27-11.14.35:311][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.27-11.14.41:200][373]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/GameLevel/Level2
+[2022.11.27-11.14.41:202][373]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/Level2D92C91CB4C7CA7A9D905EA82A6F5D8EF.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/GameLevel/Level2.umap'
+[2022.11.27-11.14.41:233][373]AssetCheck: New page: Asset Save: Level2
+[2022.11.27-11.14.41:233][373]LogContentValidation: Display: Validating World /Game/UtkuTuremen/GameLevel/Level2.Level2
+[2022.11.27-11.14.53:130][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.27-11.14.58:965][766]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/GameLevel/Level2
+[2022.11.27-11.14.58:967][766]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/Level28EFDB222451F2D38ED2056AE6D89BCCD.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/GameLevel/Level2.umap'
+[2022.11.27-11.14.58:999][766]AssetCheck: New page: Asset Save: Level2
+[2022.11.27-11.14.58:999][766]LogContentValidation: Display: Validating World /Game/UtkuTuremen/GameLevel/Level2.Level2
+[2022.11.27-11.14.59:828][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.27-11.14.59:900][832]LogAssetEditorSubsystem: Opening Asset editor for World /Game/UtkuTuremen/GameLevel/Level1.Level1
+[2022.11.27-11.14.59:900][832]Cmd: MAP LOAD FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/GameLevel/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.27-11.14.59:900][832]LightingResults: New page: Lighting Build
+[2022.11.27-11.14.59:900][832]LoadErrors: New page: Loading map: Level1.umap
+[2022.11.27-11.14.59:901][832]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.14.59:901][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.14.59:902][832]MapCheck: New page: Map Check
+[2022.11.27-11.14.59:902][832]LightingResults: New page: Lighting Build
+[2022.11.27-11.14.59:919][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-11.14.59:923][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.27-11.14.59:924][832]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.14.59:925][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.14.59:943][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.11.27-11.14.59:960][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.11.27-11.14.59:966][832]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2022.11.27-11.14.59:966][832]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-11.14.59:966][832]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.14.59:967][832]LogAIModule: Creating AISystem for world Level1
+[2022.11.27-11.14.59:981][832]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.27-11.15.00:000][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.11.27-11.15.00:015][832]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.27-11.15.00:016][832]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.223ms to complete.
+[2022.11.27-11.15.00:016][832]LogFileHelpers: Loading map 'Level1' took 0.116
+[2022.11.27-11.15.02:653][134]Launching UnrealBuildTool... [D:/Unreal Engine Versions/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="D:/Unreal Engine Versions/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.11.27-11.15.03:204][134]Launching UnrealBuildTool... [D:/Unreal Engine Versions/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="D:/Unreal Engine Versions/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.11.27-11.15.03:315][134]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2022.11.27-11.15.03:315][134]LogTurnkeySupport: Display: Adding device menu item for UTKUTUREMEN
+[2022.11.27-11.15.03:315][134]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/BUG_Fall_Jam.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Intermediate/TurnkeyReport_1.log" -log="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Intermediate/TurnkeyLog_1.log" -project="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/BUG_Fall_Jam.uproject"  -Device=Win64@UTKUTUREMEN'
+[2022.11.27-11.15.03:315][134]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Unreal Engine Versions/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/BUG_Fall_Jam.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Intermediate/TurnkeyReport_1.log" -log="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Intermediate/TurnkeyLog_1.log" -project="D:/Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/BUG_Fall_Jam.uproject"  -Device=Win64@UTKUTUREMEN" -nocompile ]
+[2022.11.27-11.15.03:416][142]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.11.27-11.15.21:773][231]LogEditorViewport: Clicking Background
+[2022.11.27-11.15.22:980][354]LogViewport: Scene viewport resized to 536x276, mode Windowed.
+[2022.11.27-11.15.23:048][354]LogViewport: Scene viewport resized to 536x276, mode Windowed.
+[2022.11.27-11.15.23:072][354]LogViewport: Scene viewport resized to 536x276, mode Windowed.
+[2022.11.27-11.15.23:101][354]LogViewport: Scene viewport resized to 1291x677, mode Windowed.
+[2022.11.27-11.15.23:166][355]LogViewport: Scene viewport resized to 1920x1032, mode Windowed.
+[2022.11.27-11.16.00:360][863]Cmd: SELECT NONE
+[2022.11.27-11.16.04:112][119]Cmd: SELECT NONE
+[2022.11.27-11.16.06:617][387]LogViewport: Scene viewport resized to 1768x946, mode Windowed.
+[2022.11.27-11.16.06:661][388]LogViewport: Scene viewport resized to 1361x717, mode Windowed.
+[2022.11.27-11.16.06:755][389]LogViewport: Scene viewport resized to 1088x562, mode Windowed.
+[2022.11.27-11.16.06:778][390]LogViewport: Scene viewport resized to 1079x557, mode Windowed.
+[2022.11.27-11.16.06:837][391]LogViewport: Scene viewport resized to 1078x557, mode Windowed.
+[2022.11.27-11.16.19:828][ 10]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\utkut\OneDrive\Resimler\Ekran Görüntüleri\Screenshot_20221127_021557.png)
+[2022.11.27-11.16.19:884][ 10]LogTexture: Display: Building textures: /Game/UtkuTuremen/UI/Screenshot_20221127_021557.Screenshot_20221127_021557 (BGRA8, 1875X957 X1X1) (Required Memory Estimate: 34.224987 MB), EncodeSpeed: Fast
+[2022.11.27-11.16.22:446][ 18]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.11.27-11.16.22:446][ 18]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.11.27-11.16.24:345][218]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Credit.WB_Credit
+[2022.11.27-11.16.24:345][218]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.16.24:357][218]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.16.24:635][218]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.16.24:635][218]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.16.35:879][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Credit" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Credit.uasset" SILENT=true
+[2022.11.27-11.16.37:329][448]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Credit
+[2022.11.27-11.16.37:330][448]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Credit3C99CB774830ABD6FE55B69A005D86E3.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Credit.uasset'
+[2022.11.27-11.16.37:346][448]AssetCheck: New page: Asset Save: WB_Credit
+[2022.11.27-11.16.37:346][448]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Credit.WB_Credit
+[2022.11.27-11.16.40:242][792]BlueprintLog: New page: Compile WB_Credit
+[2022.11.27-11.16.40:281][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.11.27-11.16.40:896][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Credit" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Credit.uasset" SILENT=true
+[2022.11.27-11.16.42:415][855]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Credit
+[2022.11.27-11.16.42:416][855]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Credit51D6BC9D485F42C23441CC8B01D395CD.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Credit.uasset'
+[2022.11.27-11.16.42:432][855]AssetCheck: New page: Asset Save: WB_Credit
+[2022.11.27-11.16.42:432][855]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Credit.WB_Credit
+[2022.11.27-11.16.44:926][ 99]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu
+[2022.11.27-11.16.44:927][ 99]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.16.44:942][ 99]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.16.45:206][ 99]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.16.45:206][ 99]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.16.54:017][102]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_MainMenu.WB_MainMenu
+[2022.11.27-11.16.54:017][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.16.54:031][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.16.54:289][102]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.16.54:289][102]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.16.58:515][584]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.17.32:536][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_MainMenu" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_MainMenu.uasset" SILENT=true
+[2022.11.27-11.17.33:927][674]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_MainMenu
+[2022.11.27-11.17.33:930][674]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_MainMenuABEC080C46F7DFB4710FE5BD4847F9CE.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_MainMenu.uasset'
+[2022.11.27-11.17.33:947][674]AssetCheck: New page: Asset Save: WB_MainMenu
+[2022.11.27-11.17.33:947][674]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_MainMenu.WB_MainMenu
+[2022.11.27-11.17.34:761][772]BlueprintLog: New page: Compile WB_MainMenu
+[2022.11.27-11.17.34:814][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.27-11.17.35:693][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_MainMenu" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_MainMenu.uasset" SILENT=true
+[2022.11.27-11.17.37:061][865]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_MainMenu
+[2022.11.27-11.17.37:063][865]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_MainMenuFC8031F249BBF5D6D4380F80AAB186B3.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_MainMenu.uasset'
+[2022.11.27-11.17.37:078][865]AssetCheck: New page: Asset Save: WB_MainMenu
+[2022.11.27-11.17.37:078][865]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_MainMenu.WB_MainMenu
+[2022.11.27-11.18.02:876][340]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot3.WB_Loot3
+[2022.11.27-11.18.02:877][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.18.02:891][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.18.03:146][340]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.18.03:146][340]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.18.05:141][564]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.18.05:142][564]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.18.05:157][564]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.18.05:433][564]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.18.05:433][564]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.18.24:308][340]BlueprintLog: New page: Compile WB_Loot2
+[2022.11.27-11.18.24:367][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.11.27-11.18.24:634][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot2" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset" SILENT=true
+[2022.11.27-11.18.25:649][340]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot2
+[2022.11.27-11.18.25:651][340]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot26D7C4E92450A242908DE0A8ACD2050FD.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset'
+[2022.11.27-11.18.25:692][340]AssetCheck: New page: Asset Save: WB_Loot2
+[2022.11.27-11.18.25:692][340]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.18.32:974][ 85]BlueprintLog: New page: Compile WB_Loot2
+[2022.11.27-11.18.33:033][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.27-11.18.33:097][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot2" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset" SILENT=true
+[2022.11.27-11.18.34:110][ 85]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot2
+[2022.11.27-11.18.34:112][ 85]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot2891B0468491F8A58B70AF1B52B8A50E8.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset'
+[2022.11.27-11.18.34:128][ 85]AssetCheck: New page: Asset Save: WB_Loot2
+[2022.11.27-11.18.34:128][ 85]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.18.41:048][860]BlueprintLog: New page: Compile WB_Loot2
+[2022.11.27-11.18.41:106][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.27-11.18.41:365][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot2" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset" SILENT=true
+[2022.11.27-11.18.42:378][860]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot2
+[2022.11.27-11.18.42:380][860]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot20B106567430035B90AFF6482FAFA6B4D.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset'
+[2022.11.27-11.18.42:421][860]AssetCheck: New page: Asset Save: WB_Loot2
+[2022.11.27-11.18.42:421][860]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.19.16:196][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot2" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset" SILENT=true
+[2022.11.27-11.19.17:237][932]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot2
+[2022.11.27-11.19.17:239][932]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot2069A20754BF6E5FE1C6840AAC28C23CF.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset'
+[2022.11.27-11.19.17:257][932]AssetCheck: New page: Asset Save: WB_Loot2
+[2022.11.27-11.19.17:257][932]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.19.17:557][967]BlueprintLog: New page: Compile WB_Loot2
+[2022.11.27-11.19.17:614][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.11.27-11.19.28:107][128]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.19.28:107][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.19.28:121][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.19.28:380][128]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.19.28:380][128]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.19.50:841][299]BlueprintLog: New page: Compile WB_Loot1
+[2022.11.27-11.19.50:903][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.27-11.19.51:160][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.19.52:145][299]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.19.52:147][299]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot11812943A42607181CFBCA094004129F7.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.19.52:191][299]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.19.52:191][299]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.20.05:175][713]BlueprintLog: New page: Compile WB_Loot1
+[2022.11.27-11.20.05:238][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.11.27-11.20.05:305][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.20.06:308][713]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.20.06:309][713]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot1AC3F51734DA259F63E5D7CA19896BCF0.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.20.06:326][713]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.20.06:326][713]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.20.12:586][347]BlueprintLog: New page: Compile WB_Loot1
+[2022.11.27-11.20.12:650][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.11.27-11.20.12:906][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.20.13:913][347]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.20.13:914][347]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot17FB0A2954E13258DBEEE8BA9CF715795.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.20.13:957][347]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.20.13:957][347]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.20.26:211][745]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.20.26:212][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.20.26:226][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.20.26:486][745]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.20.26:486][745]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.20.33:472][539]BlueprintLog: New page: Compile WB_Loot
+[2022.11.27-11.20.33:543][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.27-11.20.33:801][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-11.20.34:932][539]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-11.20.34:934][539]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_LootEC6D66A744B54C89A57150B448AD0A96.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-11.20.34:980][539]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-11.20.34:980][539]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.20.48:860][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-11.20.50:027][667]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-11.20.50:029][667]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_LootA25AD74A426002EE26367B9152DDD5F6.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-11.20.50:043][667]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-11.20.50:043][667]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.20.50:449][716]BlueprintLog: New page: Compile WB_Loot
+[2022.11.27-11.20.50:523][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.27-11.20.52:319][918]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.52:319][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.52:408][918]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.52:408][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.52:663][941]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.52:663][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.52:675][941]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.52:675][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.52:978][972]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.52:978][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.52:990][972]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.52:990][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.53:219][994]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.53:219][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.53:229][994]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.53:230][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.53:475][ 19]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.53:475][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.53:486][ 19]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.53:486][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.53:741][ 43]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.53:741][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.53:753][ 43]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.53:753][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.54:074][ 75]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.54:074][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.54:086][ 75]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.54:086][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.55:762][223]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
+[2022.11.27-11.20.55:763][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.20.55:777][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.20.56:045][223]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.20.56:045][223]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.04:607][146]BlueprintLog: New page: Compile WB_EndGame
+[2022.11.27-11.21.04:650][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.27-11.21.04:747][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_EndGame" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset" SILENT=true
+[2022.11.27-11.21.05:776][146]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_EndGame
+[2022.11.27-11.21.05:778][146]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_EndGameBA9BB330489003C8610064B01272F4F0.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset'
+[2022.11.27-11.21.05:797][146]AssetCheck: New page: Asset Save: WB_EndGame
+[2022.11.27-11.21.05:798][146]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
+[2022.11.27-11.21.07:177][282]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.21.07:178][282]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.07:196][282]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.07:464][282]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.07:464][282]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.10:069][544]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.21.10:071][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.10:084][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.10:345][544]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.10:345][544]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.17:181][214]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.21.17:182][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.17:200][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.17:465][214]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.17:465][214]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.19:906][460]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot3.WB_Loot3
+[2022.11.27-11.21.19:907][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.19:922][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.20:180][460]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.20:180][460]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.22:993][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot3" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot3.uasset" SILENT=true
+[2022.11.27-11.21.23:977][743]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot3
+[2022.11.27-11.21.23:979][743]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot3D2D4F9784FB13E297775298F1AE55C09.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot3.uasset'
+[2022.11.27-11.21.23:994][743]AssetCheck: New page: Asset Save: WB_Loot3
+[2022.11.27-11.21.23:994][743]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot3.WB_Loot3
+[2022.11.27-11.21.40:213][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_EndGame" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset" SILENT=true
+[2022.11.27-11.21.41:276][545]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_EndGame
+[2022.11.27-11.21.41:278][545]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_EndGame968696604BE4BD5D651E10A03F1C6A40.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset'
+[2022.11.27-11.21.41:293][545]AssetCheck: New page: Asset Save: WB_EndGame
+[2022.11.27-11.21.41:294][545]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
