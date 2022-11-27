@@ -1422,3 +1422,1058 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.27-11.21.41:278][545]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_EndGame968696604BE4BD5D651E10A03F1C6A40.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset'
 [2022.11.27-11.21.41:293][545]AssetCheck: New page: Asset Save: WB_EndGame
 [2022.11.27-11.21.41:294][545]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
+[2022.11.27-11.23.40:403][318]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_MainMenu.WB_MainMenu
+[2022.11.27-11.23.40:403][318]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.23.40:414][318]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.23.40:680][318]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.23.40:680][318]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.23.42:105][480]BlueprintLog: New page: Compile WB_MainMenu
+[2022.11.27-11.23.42:180][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.27-11.23.42:804][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_MainMenu" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_MainMenu.uasset" SILENT=true
+[2022.11.27-11.23.44:185][542]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_MainMenu
+[2022.11.27-11.23.44:187][542]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_MainMenuFD572F9B48458E953449888F11B17A58.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_MainMenu.uasset'
+[2022.11.27-11.23.44:203][542]AssetCheck: New page: Asset Save: WB_MainMenu
+[2022.11.27-11.23.44:203][542]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_MainMenu.WB_MainMenu
+[2022.11.27-11.23.54:655][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.27-11.23.55:814][720]LogSlate: Window 'Save Content' being destroyed
+[2022.11.27-11.23.56:097][720]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/UI/Screenshot_20221127_021557
+[2022.11.27-11.23.56:097][720]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/Screenshot_20221127_02155730482D3F47A74E2B032E9EB546FA4466.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/UI/Screenshot_20221127_021557.uasset'
+[2022.11.27-11.23.56:100][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.23.57:097][720]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.23.57:099][720]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot1D3F2CFC044DBF4A3DE63DDBCE37C6932.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.23.57:185][720]LogAssetEditorSubsystem: Opening Asset editor for World /Game/UtkuTuremen/MenuLevels/MainMenu.MainMenu
+[2022.11.27-11.23.57:185][720]Cmd: MAP LOAD FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuLevels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.27-11.23.57:185][720]LightingResults: New page: Lighting Build
+[2022.11.27-11.23.57:185][720]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.11.27-11.23.57:210][720]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.23.57:210][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.23.57:210][720]MapCheck: New page: Map Check
+[2022.11.27-11.23.57:210][720]LightingResults: New page: Lighting Build
+[2022.11.27-11.23.57:253][720]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-11.23.57:260][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.27-11.23.57:262][720]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.23.57:262][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.23.57:306][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.11.27-11.23.57:350][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.11.27-11.23.57:356][720]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.11.27-11.23.57:356][720]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-11.23.57:356][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.23.57:356][720]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.27-11.23.57:357][720]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.27-11.23.57:403][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.11.27-11.23.57:419][720]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.27-11.23.57:419][720]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2022.11.27-11.23.57:419][720]LogFileHelpers: Loading map 'MainMenu' took 0.235
+[2022.11.27-11.23.57:447][720]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.27-11.23.57:447][720]LogContentValidation: Display: Validating Texture2D /Game/UtkuTuremen/UI/Screenshot_20221127_021557.Screenshot_20221127_021557
+[2022.11.27-11.23.57:447][720]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.23.58:181][801]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-11.23.58:193][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-11.23.58:193][801]PIE: New page: PIE session: MainMenu (Nov 27, 2022, 5:23:58 PM)
+[2022.11.27-11.23.58:196][801]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.27-11.23.58:196][801]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.27-11.23.58:196][801]LogPlayLevel: Creating play world package: /Game/UtkuTuremen/MenuLevels/UEDPIE_0_MainMenu
+[2022.11.27-11.23.58:198][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000970s)
+[2022.11.27-11.23.58:198][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UtkuTuremen/MenuLevels/MainMenu.MainMenu to /Game/UtkuTuremen/MenuLevels/UEDPIE_0_MainMenu.MainMenu (0.001052s)
+[2022.11.27-11.23.58:198][801]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-11.23.58:198][801]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.23.58:198][801]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.27-11.23.58:198][801]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2022.11.27-11.23.58:243][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.11.27-11.23.58:245][801]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.27-11.23.58:245][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-11.23.58:245][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-11.23.58:245][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-11.23.58:245][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-11.23.58:245][801]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-11.23.58:245][801]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-11.23.58:245][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-11.23.58:245][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-11.23.58:245][801]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.27-11.23.58:245][801]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.27-11.23.58:245][801]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-11.23.58:247][801]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-11.23.58:264][801]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair VOID ELITE USB Gaming Headset)
+[2022.11.27-11.23.58:264][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-11.23.58:264][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-11.23.58:264][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-11.23.58:266][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.27-11.23.58:266][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.27-11.23.58:267][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.27-11.23.58:267][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.27-11.23.58:267][801]LogInit: FAudioDevice initialized.
+[2022.11.27-11.23.58:267][801]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2022.11.27-11.23.58:281][801]LogLoad: Game class is 'GM_Menu_C'
+[2022.11.27-11.23.58:281][801]LogWorld: Bringing World /Game/UtkuTuremen/MenuLevels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.11.27-14.23.58
+[2022.11.27-11.23.58:281][801]LogWorld: Bringing up level for play took: 0.000374
+[2022.11.27-11.23.58:283][801]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2022.11.27-11.23.58:283][801]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-11.23.58:301][801]PIE: Server logged in
+[2022.11.27-11.23.58:302][801]PIE: Play in editor total start time 0.109 seconds.
+[2022.11.27-11.23.59:813][945]LogNet: Browse: /Game/UtkuTuremen/MenuLevels/Credits
+[2022.11.27-11.23.59:813][945]LogLoad: LoadMap: /Game/UtkuTuremen/MenuLevels/Credits
+[2022.11.27-11.23.59:813][945]LogWorld: BeginTearingDown for /Game/UtkuTuremen/MenuLevels/UEDPIE_0_MainMenu
+[2022.11.27-11.23.59:813][945]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.23.59:813][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.23.59:890][945]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-11.23.59:906][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.27-11.23.59:914][945]LogAudio: Display: Audio Device (ID: 2) registered with world 'Credits'.
+[2022.11.27-11.23.59:914][945]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-11.23.59:914][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.23.59:915][945]LogAIModule: Creating AISystem for world Credits
+[2022.11.27-11.23.59:915][945]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2022.11.27-11.23.59:915][945]LogLoad: Game class is 'GM_Menu_C'
+[2022.11.27-11.23.59:915][945]LogWorld: Bringing World /Game/UtkuTuremen/MenuLevels/UEDPIE_0_Credits.Credits up for play (max tick rate 0) at 2022.11.27-14.23.59
+[2022.11.27-11.23.59:916][945]LogWorld: Bringing up level for play took: 0.000456
+[2022.11.27-11.23.59:916][945]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.27-11.23.59:916][945]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-11.23.59:917][945]LogLoad: Took 0.104027 seconds to LoadMap(/Game/UtkuTuremen/MenuLevels/Credits)
+[2022.11.27-11.24.01:339][115]LogNet: Browse: /Game/UtkuTuremen/MenuLevels/MainMenu
+[2022.11.27-11.24.01:339][115]LogLoad: LoadMap: /Game/UtkuTuremen/MenuLevels/MainMenu
+[2022.11.27-11.24.01:339][115]LogWorld: BeginTearingDown for /Game/UtkuTuremen/MenuLevels/UEDPIE_0_Credits
+[2022.11.27-11.24.01:340][115]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.24.01:340][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.24.01:425][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-11.24.01:432][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.11.27-11.24.01:435][115]LogPlayLevel: Creating play world package: /Game/UtkuTuremen/MenuLevels/UEDPIE_0_MainMenu
+[2022.11.27-11.24.01:436][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001019s)
+[2022.11.27-11.24.01:436][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UtkuTuremen/MenuLevels/MainMenu.MainMenu to /Game/UtkuTuremen/MenuLevels/UEDPIE_0_MainMenu.MainMenu (0.001092s)
+[2022.11.27-11.24.01:437][115]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2022.11.27-11.24.01:437][115]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-11.24.01:437][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.24.01:437][115]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.27-11.24.01:437][115]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2022.11.27-11.24.01:437][115]LogLoad: Game class is 'GM_Menu_C'
+[2022.11.27-11.24.01:437][115]LogWorld: Bringing World /Game/UtkuTuremen/MenuLevels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.11.27-14.24.01
+[2022.11.27-11.24.01:437][115]LogWorld: Bringing up level for play took: 0.000225
+[2022.11.27-11.24.01:437][115]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.27-11.24.01:438][115]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-11.24.01:438][115]LogLoad: Took 0.099023 seconds to LoadMap(/Game/UtkuTuremen/MenuLevels/UEDPIE_0_MainMenu)
+[2022.11.27-11.24.02:242][211]LogNet: Browse: /Game/UtkuTuremen/GameLevel/Level1
+[2022.11.27-11.24.02:242][211]LogLoad: LoadMap: /Game/UtkuTuremen/GameLevel/Level1
+[2022.11.27-11.24.02:242][211]LogWorld: BeginTearingDown for /Game/UtkuTuremen/MenuLevels/UEDPIE_0_MainMenu
+[2022.11.27-11.24.02:243][211]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.24.02:243][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.24.02:324][211]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-11.24.02:326][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.27-11.24.02:339][211]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2022.11.27-11.24.02:339][211]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-11.24.02:339][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.24.02:340][211]LogAIModule: Creating AISystem for world Level1
+[2022.11.27-11.24.02:340][211]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2022.11.27-11.24.02:344][211]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.27-11.24.02:355][211]LogWorld: Bringing World /Game/UtkuTuremen/GameLevel/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.27-14.24.02
+[2022.11.27-11.24.02:355][211]LogWorld: Bringing up level for play took: 0.012248
+[2022.11.27-11.24.02:358][211]LogBlueprintUserMessages: Warning: SetTimer passed a function (Dash_Slider_1) that expects parameters.
+[2022.11.27-11.24.02:358][211]LogLoad: Took 0.116726 seconds to LoadMap(/Game/UtkuTuremen/GameLevel/Level1)
+[2022.11.27-11.24.09:890][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-11.24.09:890][ 61]LogWorld: BeginTearingDown for /Game/UtkuTuremen/GameLevel/UEDPIE_0_Level1
+[2022.11.27-11.24.09:890][ 61]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.24.09:890][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.24.09:903][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-11.24.09:907][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.24.09:955][ 61]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-11.24.09:955][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.27-11.24.09:956][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.27-11.24.09:959][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-11.24.09:962][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.27-11.24.09:992][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.11.27-11.24.13:148][422]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/UI/UW_HUD.UW_HUD
+[2022.11.27-11.24.13:148][422]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.24.13:155][422]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.24.13:472][422]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.24.13:472][422]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.24.20:043][174]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.24.25:403][796]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.24.31:563][498]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.24.35:767][979]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.27-11.24.37:071][130]BlueprintLog: New page: Compile UW_HUD
+[2022.11.27-11.24.37:158][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.27-11.24.37:282][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/UI/UW_HUD" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/UI/UW_HUD.uasset" SILENT=true
+[2022.11.27-11.24.39:679][130]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/UI/UW_HUD
+[2022.11.27-11.24.39:681][130]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/UW_HUDE59A41E442C6998971AA6B8F95BAF62E.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/UI/UW_HUD.uasset'
+[2022.11.27-11.24.39:707][130]AssetCheck: New page: Asset Save: UW_HUD
+[2022.11.27-11.24.39:707][130]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/UI/UW_HUD.UW_HUD
+[2022.11.27-11.24.49:179][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/UI/UW_HUD" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/UI/UW_HUD.uasset" SILENT=true
+[2022.11.27-11.24.51:564][ 75]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/UI/UW_HUD
+[2022.11.27-11.24.51:566][ 75]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/UW_HUDF6A5B3EF45D94B07E0A472815AC91A7F.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/UI/UW_HUD.uasset'
+[2022.11.27-11.24.51:584][ 75]AssetCheck: New page: Asset Save: UW_HUD
+[2022.11.27-11.24.51:584][ 75]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/UI/UW_HUD.UW_HUD
+[2022.11.27-11.24.52:132][140]BlueprintLog: New page: Compile UW_HUD
+[2022.11.27-11.24.52:221][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.11.27-11.24.52:893][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/UI/UW_HUD" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/UI/UW_HUD.uasset" SILENT=true
+[2022.11.27-11.24.55:287][197]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/UI/UW_HUD
+[2022.11.27-11.24.55:288][197]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/UW_HUD22D6C0E84B660A49F1206188490E2AE9.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/UI/UW_HUD.uasset'
+[2022.11.27-11.24.55:307][197]AssetCheck: New page: Asset Save: UW_HUD
+[2022.11.27-11.24.55:307][197]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/UI/UW_HUD.UW_HUD
+[2022.11.27-11.24.56:494][331]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-11.24.56:507][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-11.24.56:507][331]PIE: New page: PIE session: MainMenu (Nov 27, 2022, 5:24:56 PM)
+[2022.11.27-11.24.56:539][331]LogPlayLevel: Creating play world package: /Game/UtkuTuremen/MenuLevels/UEDPIE_0_MainMenu
+[2022.11.27-11.24.56:540][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000996s)
+[2022.11.27-11.24.56:540][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UtkuTuremen/MenuLevels/MainMenu.MainMenu to /Game/UtkuTuremen/MenuLevels/UEDPIE_0_MainMenu.MainMenu (0.001091s)
+[2022.11.27-11.24.56:540][331]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-11.24.56:540][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.24.56:540][331]LogAIModule: Creating AISystem for world MainMenu
+[2022.11.27-11.24.56:541][331]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2022.11.27-11.24.56:597][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.27-11.24.56:599][331]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.27-11.24.56:599][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-11.24.56:599][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-11.24.56:599][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-11.24.56:599][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-11.24.56:599][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-11.24.56:599][331]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-11.24.56:599][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-11.24.56:599][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-11.24.56:600][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.27-11.24.56:600][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.27-11.24.56:600][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-11.24.56:602][331]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-11.24.56:618][331]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair VOID ELITE USB Gaming Headset)
+[2022.11.27-11.24.56:618][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-11.24.56:618][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-11.24.56:618][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-11.24.56:619][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.11.27-11.24.56:619][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.11.27-11.24.56:620][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.11.27-11.24.56:620][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.11.27-11.24.56:620][331]LogInit: FAudioDevice initialized.
+[2022.11.27-11.24.56:620][331]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2022.11.27-11.24.56:629][331]LogLoad: Game class is 'GM_Menu_C'
+[2022.11.27-11.24.56:629][331]LogWorld: Bringing World /Game/UtkuTuremen/MenuLevels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.11.27-14.24.56
+[2022.11.27-11.24.56:630][331]LogWorld: Bringing up level for play took: 0.000330
+[2022.11.27-11.24.56:631][331]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2022.11.27-11.24.56:632][331]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-11.24.56:632][331]PIE: Server logged in
+[2022.11.27-11.24.56:633][331]PIE: Play in editor total start time 0.126 seconds.
+[2022.11.27-11.24.57:729][456]LogNet: Browse: /Game/UtkuTuremen/GameLevel/Level1
+[2022.11.27-11.24.57:729][456]LogLoad: LoadMap: /Game/UtkuTuremen/GameLevel/Level1
+[2022.11.27-11.24.57:729][456]LogWorld: BeginTearingDown for /Game/UtkuTuremen/MenuLevels/UEDPIE_0_MainMenu
+[2022.11.27-11.24.57:729][456]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.24.57:730][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.24.57:784][456]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-11.24.57:786][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.11.27-11.24.57:798][456]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2022.11.27-11.24.57:798][456]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-11.24.57:798][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.24.57:798][456]LogAIModule: Creating AISystem for world Level1
+[2022.11.27-11.24.57:798][456]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2022.11.27-11.24.57:798][456]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.27-11.24.57:811][456]LogWorld: Bringing World /Game/UtkuTuremen/GameLevel/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.27-14.24.57
+[2022.11.27-11.24.57:811][456]LogWorld: Bringing up level for play took: 0.012911
+[2022.11.27-11.24.57:814][456]LogBlueprintUserMessages: Warning: SetTimer passed a function (Dash_Slider_1) that expects parameters.
+[2022.11.27-11.24.57:814][456]LogLoad: Took 0.085225 seconds to LoadMap(/Game/UtkuTuremen/GameLevel/Level1)
+[2022.11.27-11.25.10:612][954]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.27-11.25.10:612][954]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.27-11.25.10:612][954]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.27-11.25.10:612][954]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.27-11.25.10:615][954]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:615][954]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:635][955]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:635][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:642][956]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:642][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:651][957]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:651][957]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:658][958]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:659][958]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:667][959]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:667][959]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:676][960]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:676][960]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:684][961]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:684][961]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:692][962]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:692][962]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:700][963]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:700][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:708][964]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:708][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:717][965]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:717][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:725][966]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:725][966]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:733][967]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:734][967]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:742][968]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:743][968]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:750][969]LogScript: Warning: Accessed None trying to read property Target
+	WB_DeathMenu_C /Engine/Transient.UnrealEdEngine_0:MainGameInstance_C_1.WB_DeathMenu_C_0
+	Function /Game/UtkuTuremen/MenuWB/WB_DeathMenu.WB_DeathMenu_C:Get_Second_Text_0:0027
+[2022.11.27-11.25.10:750][969]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:759][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:767][971]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:775][972]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:784][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:793][974]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:801][975]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:809][976]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:818][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:826][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:834][979]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:843][980]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:850][981]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:859][982]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:867][983]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:876][984]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:884][985]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:892][986]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:900][987]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:909][988]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:917][989]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:926][990]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:934][991]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:943][992]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:950][993]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:958][994]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:967][995]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:976][996]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:984][997]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.10:993][998]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:001][999]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:009][  0]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:017][  1]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:026][  2]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:034][  3]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:043][  4]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:051][  5]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:059][  6]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:067][  7]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:076][  8]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:084][  9]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:092][ 10]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:101][ 11]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:108][ 12]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:117][ 13]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:126][ 14]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:134][ 15]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:142][ 16]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:151][ 17]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:160][ 18]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:169][ 19]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:176][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:184][ 21]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:193][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:200][ 23]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:209][ 24]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:217][ 25]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:226][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:233][ 27]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:242][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:251][ 29]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:259][ 30]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:267][ 31]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:276][ 32]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:284][ 33]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:292][ 34]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:301][ 35]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:309][ 36]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:317][ 37]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:326][ 38]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:335][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:343][ 40]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:351][ 41]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:359][ 42]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:367][ 43]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:375][ 44]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:384][ 45]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:392][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:400][ 47]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:409][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:418][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:426][ 50]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:435][ 51]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:443][ 52]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:451][ 53]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:459][ 54]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:467][ 55]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:476][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:484][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:492][ 58]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:501][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:508][ 60]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:517][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:526][ 62]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:534][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:543][ 64]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:550][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:560][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:567][ 67]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:577][ 68]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:585][ 69]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:593][ 70]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:601][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:609][ 72]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:616][ 73]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:626][ 74]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:634][ 75]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:642][ 76]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:651][ 77]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:659][ 78]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:667][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:676][ 80]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:686][ 81]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:692][ 82]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:701][ 83]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:709][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:717][ 85]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:726][ 86]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:734][ 87]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:743][ 88]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:751][ 89]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:759][ 90]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:768][ 91]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:777][ 92]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:784][ 93]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:793][ 94]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:801][ 95]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:809][ 96]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:818][ 97]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:826][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:834][ 99]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:843][100]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:852][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:859][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:868][103]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:877][104]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:885][105]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:893][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:902][107]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:909][108]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:918][109]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:926][110]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:935][111]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:943][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:951][113]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:959][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:968][115]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:977][116]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:984][117]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.11:993][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:001][119]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:009][120]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:018][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:026][122]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:035][123]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:043][124]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:052][125]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:059][126]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:068][127]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:076][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:085][129]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:093][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:101][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:109][132]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:118][133]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:126][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:135][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:143][136]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:151][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:159][138]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:168][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:176][140]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:184][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:193][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:201][143]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:210][144]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:218][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:227][146]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:234][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:243][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:251][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:260][150]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:268][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:276][152]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:285][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:292][154]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:302][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:310][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:318][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:327][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:335][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:343][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:352][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:359][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:368][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:376][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:385][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:393][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:401][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:410][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:418][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:426][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:434][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:443][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:451][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:461][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:469][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:477][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:485][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:493][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:502][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:510][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:518][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:527][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:535][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:543][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:551][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:560][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:568][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:576][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:585][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:595][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:602][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:610][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:619][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:627][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:635][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:643][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:651][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:660][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:667][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:676][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:685][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:692][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:701][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:709][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:717][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:727][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:734][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:743][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:751][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:760][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:767][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:776][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:785][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:793][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:802][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:809][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:818][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:827][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:834][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:843][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:851][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:859][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:868][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:876][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:885][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:892][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:902][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:910][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:920][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:927][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:936][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:945][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:952][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:961][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:969][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:978][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:986][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.12:994][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:003][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:011][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:020][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:027][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:036][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:044][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:052][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:061][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:069][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:077][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:086][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:095][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:103][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:111][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:120][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:127][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:136][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:144][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:152][257]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:161][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:170][259]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:177][260]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:186][261]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:194][262]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:203][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:210][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:219][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:228][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:235][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:244][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:252][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:261][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:269][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:277][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:285][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:294][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:302][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:311][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:319][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:327][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:335][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:344][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:352][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:360][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:369][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:377][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:385][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:394][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:402][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:410][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:420][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:427][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:436][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:444][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:453][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:461][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:470][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:477][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:486][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:495][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:502][299]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:511][300]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:519][301]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:527][302]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:535][303]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:544][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:553][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:560][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:569][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:577][308]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:586][309]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:594][310]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:603][311]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:610][312]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:620][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:628][314]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:636][315]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:645][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:652][317]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:661][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:668][319]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:677][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:686][321]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:694][322]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:702][323]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:711][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:719][325]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:727][326]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:735][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:744][328]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:753][329]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:761][330]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:769][331]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:777][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:786][333]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:794][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:803][335]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:810][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:820][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:827][338]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:836][339]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:844][340]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:852][341]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:860][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:870][343]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:877][344]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:886][345]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:894][346]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:903][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:911][348]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:919][349]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:928][350]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:936][351]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:944][352]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:953][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:961][354]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:969][355]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:978][356]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:986][357]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.13:994][358]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:002][359]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:011][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:020][361]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:027][362]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:036][363]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:044][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:053][365]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:061][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:070][367]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:077][368]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:085][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:094][370]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:103][371]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:110][372]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:119][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:127][374]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:136][375]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:144][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:152][377]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:160][378]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:170][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:177][380]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:186][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:194][382]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:203][383]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:211][384]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:219][385]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:227][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:235][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:245][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:252][389]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:261][390]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:269][391]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:277][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:285][393]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:294][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:303][395]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:310][396]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:320][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:328][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:336][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:344][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:352][401]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:361][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:369][403]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:377][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:386][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:394][406]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:402][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:411][408]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:419][409]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:427][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:436][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:444][412]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:452][413]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:461][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:469][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:477][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:486][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:494][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:503][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:511][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:518][421]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:527][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:535][423]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:544][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:552][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:561][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:569][427]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:577][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:585][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:594][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:603][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:611][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:619][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:627][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:636][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:644][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:652][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:661][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:670][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:678][440]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:686][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:694][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:702][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:711][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:719][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:727][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:735][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:745][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:752][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:761][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:769][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:778][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:786][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:794][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:803][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:811][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:820][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:827][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:836][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:844][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:852][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:861][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:870][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:877][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:886][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:894][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:903][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:911][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:920][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:927][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:936][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:944][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:952][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:961][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:969][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:977][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:985][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.14:994][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:002][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:011][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:019][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:028][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:036][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:045][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:053][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:061][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:069][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:077][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:085][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:094][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:103][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:111][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:119][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:127][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:136][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:144][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:152][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:161][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:169][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:178][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:186][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:194][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:203][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:211][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:219][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:227][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:235][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:244][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:253][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:261][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:269][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:277][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:285][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:294][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:302][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:310][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:319][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:327][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:335][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:344][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:353][521]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:361][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:369][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:377][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:386][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:394][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:402][527]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:410][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:419][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:427][530]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:435][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:444][532]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:452][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:460][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:468][535]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:478][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:485][537]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:494][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:502][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:510][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:519][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:527][542]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:536][543]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:545][544]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:552][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:561][546]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:570][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:578][548]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:586][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:595][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:603][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:611][552]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:620][553]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:627][554]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:636][555]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:644][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:653][557]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:661][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:669][559]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:677][560]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:686][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:695][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:702][563]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:710][564]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:719][565]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:727][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:736][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:745][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:752][569]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:761][570]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:769][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:778][572]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:786][573]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:794][574]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:803][575]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:811][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:819][577]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:827][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:836][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:845][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:853][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:860][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:869][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:877][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:886][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:894][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:902][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:911][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:919][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:928][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:936][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:945][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:953][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:961][594]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:969][595]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:977][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:986][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.15:994][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:002][599]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:011][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:019][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:027][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:036][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:044][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:053][605]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:061][606]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:069][607]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:077][608]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:086][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:094][610]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:103][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:111][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:119][613]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:128][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:136][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:144][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:152][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:160][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:170][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:177][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:186][621]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:195][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:203][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:211][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:219][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:228][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:236][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:245][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:252][629]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:260][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:270][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:278][632]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:286][633]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:294][634]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:303][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:311][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:319][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:327][638]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:336][639]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:345][640]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:352][641]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:361][642]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:369][643]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:377][644]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:386][645]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:394][646]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:403][647]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:411][648]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:419][649]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:427][650]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:436][651]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:445][652]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:452][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:461][654]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:469][655]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:477][656]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:486][657]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:494][658]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:502][659]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:511][660]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:519][661]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:528][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:535][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:544][664]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:553][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:560][666]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:569][667]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:577][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:586][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:595][670]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:603][671]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:611][672]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:622][673]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:630][674]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:637][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:646][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:654][677]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:662][678]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:671][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:679][680]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:688][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:697][682]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:704][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Return Node Graph:  Get_Second_Text_0 Function:  Get Second Text 0 Blueprint:  WB_DeathMenu
+[2022.11.27-11.25.16:713][684]LogNet: Browse: /Game/UtkuTuremen/GameLevel/Level1
+[2022.11.27-11.25.16:713][684]LogLoad: LoadMap: /Game/UtkuTuremen/GameLevel/Level1
+[2022.11.27-11.25.16:713][684]LogWorld: BeginTearingDown for /Game/UtkuTuremen/GameLevel/UEDPIE_0_Level1
+[2022.11.27-11.25.16:714][684]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.25.16:714][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.25.16:794][684]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-11.25.16:797][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.11.27-11.25.16:808][684]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2022.11.27-11.25.16:808][684]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-11.25.16:808][684]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.25.16:808][684]LogAIModule: Creating AISystem for world Level1
+[2022.11.27-11.25.16:809][684]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2022.11.27-11.25.16:809][684]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.27-11.25.16:822][684]LogWorld: Bringing World /Game/UtkuTuremen/GameLevel/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.27-14.25.16
+[2022.11.27-11.25.16:822][684]LogWorld: Bringing up level for play took: 0.012828
+[2022.11.27-11.25.16:824][684]LogBlueprintUserMessages: Warning: SetTimer passed a function (Dash_Slider_1) that expects parameters.
+[2022.11.27-11.25.16:825][684]LogLoad: Took 0.111074 seconds to LoadMap(/Game/UtkuTuremen/GameLevel/Level1)
+[2022.11.27-11.25.18:960][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-11.25.18:960][919]LogWorld: BeginTearingDown for /Game/UtkuTuremen/GameLevel/UEDPIE_0_Level1
+[2022.11.27-11.25.18:961][919]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.25.18:961][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.25.18:974][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-11.25.18:978][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.25.19:032][919]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-11.25.19:032][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.27-11.25.19:034][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.27-11.25.19:037][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-11.25.19:040][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.11.27-11.25.19:188][920]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.11.27-11.25.20:203][  3]LogSlate: Window 'Message Log' being destroyed
+[2022.11.27-11.25.20:210][  3]LogSlate: Window 'Message Log' being destroyed
