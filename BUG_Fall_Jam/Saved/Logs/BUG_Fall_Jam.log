@@ -1269,3 +1269,156 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.27-11.17.37:063][865]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_MainMenuFC8031F249BBF5D6D4380F80AAB186B3.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_MainMenu.uasset'
 [2022.11.27-11.17.37:078][865]AssetCheck: New page: Asset Save: WB_MainMenu
 [2022.11.27-11.17.37:078][865]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_MainMenu.WB_MainMenu
+[2022.11.27-11.18.02:876][340]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot3.WB_Loot3
+[2022.11.27-11.18.02:877][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.18.02:891][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.18.03:146][340]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.18.03:146][340]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.18.05:141][564]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.18.05:142][564]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.18.05:157][564]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.18.05:433][564]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.18.05:433][564]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.18.24:308][340]BlueprintLog: New page: Compile WB_Loot2
+[2022.11.27-11.18.24:367][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.11.27-11.18.24:634][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot2" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset" SILENT=true
+[2022.11.27-11.18.25:649][340]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot2
+[2022.11.27-11.18.25:651][340]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot26D7C4E92450A242908DE0A8ACD2050FD.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset'
+[2022.11.27-11.18.25:692][340]AssetCheck: New page: Asset Save: WB_Loot2
+[2022.11.27-11.18.25:692][340]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.18.32:974][ 85]BlueprintLog: New page: Compile WB_Loot2
+[2022.11.27-11.18.33:033][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.27-11.18.33:097][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot2" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset" SILENT=true
+[2022.11.27-11.18.34:110][ 85]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot2
+[2022.11.27-11.18.34:112][ 85]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot2891B0468491F8A58B70AF1B52B8A50E8.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset'
+[2022.11.27-11.18.34:128][ 85]AssetCheck: New page: Asset Save: WB_Loot2
+[2022.11.27-11.18.34:128][ 85]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.18.41:048][860]BlueprintLog: New page: Compile WB_Loot2
+[2022.11.27-11.18.41:106][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.27-11.18.41:365][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot2" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset" SILENT=true
+[2022.11.27-11.18.42:378][860]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot2
+[2022.11.27-11.18.42:380][860]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot20B106567430035B90AFF6482FAFA6B4D.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset'
+[2022.11.27-11.18.42:421][860]AssetCheck: New page: Asset Save: WB_Loot2
+[2022.11.27-11.18.42:421][860]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.19.16:196][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot2" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset" SILENT=true
+[2022.11.27-11.19.17:237][932]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot2
+[2022.11.27-11.19.17:239][932]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot2069A20754BF6E5FE1C6840AAC28C23CF.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot2.uasset'
+[2022.11.27-11.19.17:257][932]AssetCheck: New page: Asset Save: WB_Loot2
+[2022.11.27-11.19.17:257][932]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.19.17:557][967]BlueprintLog: New page: Compile WB_Loot2
+[2022.11.27-11.19.17:614][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.11.27-11.19.28:107][128]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.19.28:107][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.19.28:121][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.19.28:380][128]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.19.28:380][128]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.19.50:841][299]BlueprintLog: New page: Compile WB_Loot1
+[2022.11.27-11.19.50:903][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.27-11.19.51:160][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.19.52:145][299]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.19.52:147][299]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot11812943A42607181CFBCA094004129F7.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.19.52:191][299]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.19.52:191][299]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.20.05:175][713]BlueprintLog: New page: Compile WB_Loot1
+[2022.11.27-11.20.05:238][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.11.27-11.20.05:305][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.20.06:308][713]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.20.06:309][713]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot1AC3F51734DA259F63E5D7CA19896BCF0.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.20.06:326][713]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.20.06:326][713]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.20.12:586][347]BlueprintLog: New page: Compile WB_Loot1
+[2022.11.27-11.20.12:650][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.11.27-11.20.12:906][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot1" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset" SILENT=true
+[2022.11.27-11.20.13:913][347]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot1
+[2022.11.27-11.20.13:914][347]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot17FB0A2954E13258DBEEE8BA9CF715795.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot1.uasset'
+[2022.11.27-11.20.13:957][347]AssetCheck: New page: Asset Save: WB_Loot1
+[2022.11.27-11.20.13:957][347]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.20.26:211][745]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.20.26:212][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.20.26:226][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.20.26:486][745]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.20.26:486][745]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.20.33:472][539]BlueprintLog: New page: Compile WB_Loot
+[2022.11.27-11.20.33:543][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.27-11.20.33:801][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-11.20.34:932][539]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-11.20.34:934][539]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_LootEC6D66A744B54C89A57150B448AD0A96.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-11.20.34:980][539]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-11.20.34:980][539]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.20.48:860][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset" SILENT=true
+[2022.11.27-11.20.50:027][667]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot
+[2022.11.27-11.20.50:029][667]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_LootA25AD74A426002EE26367B9152DDD5F6.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot.uasset'
+[2022.11.27-11.20.50:043][667]AssetCheck: New page: Asset Save: WB_Loot
+[2022.11.27-11.20.50:043][667]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.20.50:449][716]BlueprintLog: New page: Compile WB_Loot
+[2022.11.27-11.20.50:523][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.27-11.20.52:319][918]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.52:319][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.52:408][918]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.52:408][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.52:663][941]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.52:663][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.52:675][941]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.52:675][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.52:978][972]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.52:978][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.52:990][972]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.52:990][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.53:219][994]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.53:219][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.53:229][994]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.53:230][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.53:475][ 19]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.53:475][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.53:486][ 19]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.53:486][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.53:741][ 43]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.53:741][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.53:753][ 43]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.53:753][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.54:074][ 75]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.54:074][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.54:086][ 75]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-11.20.54:086][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-11.20.55:762][223]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
+[2022.11.27-11.20.55:763][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.20.55:777][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.20.56:045][223]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.20.56:045][223]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.04:607][146]BlueprintLog: New page: Compile WB_EndGame
+[2022.11.27-11.21.04:650][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.27-11.21.04:747][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_EndGame" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset" SILENT=true
+[2022.11.27-11.21.05:776][146]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_EndGame
+[2022.11.27-11.21.05:778][146]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_EndGameBA9BB330489003C8610064B01272F4F0.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset'
+[2022.11.27-11.21.05:797][146]AssetCheck: New page: Asset Save: WB_EndGame
+[2022.11.27-11.21.05:798][146]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
+[2022.11.27-11.21.07:177][282]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot.WB_Loot
+[2022.11.27-11.21.07:178][282]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.07:196][282]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.07:464][282]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.07:464][282]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.10:069][544]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot1.WB_Loot1
+[2022.11.27-11.21.10:071][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.10:084][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.10:345][544]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.10:345][544]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.17:181][214]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot2.WB_Loot2
+[2022.11.27-11.21.17:182][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.17:200][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.17:465][214]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.17:465][214]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.19:906][460]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot3.WB_Loot3
+[2022.11.27-11.21.19:907][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.19:922][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-11.21.20:180][460]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.20:180][460]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.27-11.21.22:993][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_Loot3" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot3.uasset" SILENT=true
+[2022.11.27-11.21.23:977][743]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_Loot3
+[2022.11.27-11.21.23:979][743]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_Loot3D2D4F9784FB13E297775298F1AE55C09.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_Loot3.uasset'
+[2022.11.27-11.21.23:994][743]AssetCheck: New page: Asset Save: WB_Loot3
+[2022.11.27-11.21.23:994][743]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_Loot3.WB_Loot3
+[2022.11.27-11.21.40:213][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UtkuTuremen/MenuWB/WB_EndGame" FILE="../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset" SILENT=true
+[2022.11.27-11.21.41:276][545]LogSavePackage: Moving output files for package: /Game/UtkuTuremen/MenuWB/WB_EndGame
+[2022.11.27-11.21.41:278][545]LogSavePackage: Moving '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Saved/WB_EndGame968696604BE4BD5D651E10A03F1C6A40.tmp' to '../../../../../Jam Projects/FallJame/BUG_Fall_Jam/BUG_Fall_Jam/Content/UtkuTuremen/MenuWB/WB_EndGame.uasset'
+[2022.11.27-11.21.41:293][545]AssetCheck: New page: Asset Save: WB_EndGame
+[2022.11.27-11.21.41:294][545]LogContentValidation: Display: Validating WidgetBlueprint /Game/UtkuTuremen/MenuWB/WB_EndGame.WB_EndGame
