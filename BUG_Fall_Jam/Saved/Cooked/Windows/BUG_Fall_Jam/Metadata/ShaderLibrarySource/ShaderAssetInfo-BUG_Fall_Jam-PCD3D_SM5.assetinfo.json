@@ -59,7 +59,16 @@
 		{
 			"ShaderMapHash": "64F711963ED34B6AF1EE61A4B93FC8E3225B225E",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray"
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/UtkuTuremen/Platforms/Material_003",
+				"/Game/UtkuTuremen/Platforms/Material_001",
+				"/Game/UtkuTuremen/Material/Material_005",
+				"/Game/UtkuTuremen/FBX/Material/Material_001",
+				"/Game/UtkuTuremen/FBX/Material_010",
+				"/Game/UtkuTuremen/FBX/Material_008",
+				"/Game/UtkuTuremen/FBX/Material_006",
+				"/Game/UtkuTuremen/FBX/Material_004",
+				"/Game/UtkuTuremen/FBX/Material_003"
 			]
 		},
 		{
@@ -78,6 +87,18 @@
 			"ShaderMapHash": "EC0B9E24AAAB5DF9FA2D660C0AA56DC12CB5C37E",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4BA8896BE742775FC7859DAF5013C6E9845265CF",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "A583EAD8CCEE3C8094B2B46535089EE2DE8CE545",
+			"Assets": [
+				"/Game/FPWeapon/Materials/BaseMaterial"
 			]
 		},
 		{
@@ -124,12 +145,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -139,6 +154,12 @@
 			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
 			"Assets": [
 				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -200,6 +221,54 @@
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
+			"Assets": [
+				"/Game/UtkuTuremen/FBX/Material/goz_Mat",
+				"/Game/UtkuTuremen/FBX/Material/tas_Mat",
+				"/Game/UtkuTuremen/FBX/Material/red_stone_texture_by_dsibley_d25pfy0-pre_Mat",
+				"/Game/UtkuTuremen/FBX/Material/odun_Mat",
+				"/Game/UtkuTuremen/FBX/Material/mud_of_hell___free_high_res_texture_by_jl_artandstock_d73xi07-fullview_ncl1_2_Mat",
+				"/Game/UtkuTuremen/FBX/Material/Material_008",
+				"/Game/UtkuTuremen/FBX/Material/Material_004",
+				"/Game/UtkuTuremen/FBX/Material/Material_011",
+				"/Game/UtkuTuremen/FBX/Material/Material_012",
+				"/Game/UtkuTuremen/FBX/Material/Material_006",
+				"/Game/UtkuTuremen/FBX/Material/Material_009",
+				"/Game/UtkuTuremen/FBX/Material/Material_007",
+				"/Game/UtkuTuremen/FBX/Material/Material_005",
+				"/Game/UtkuTuremen/FBX/Material/indir_1_Mat",
+				"/Game/UtkuTuremen/FBX/Material/Material_003",
+				"/Game/UtkuTuremen/FBX/Material_001",
+				"/Game/UtkuTuremen/FBX/Material/Material_002",
+				"/Game/UtkuTuremen/FBX/Material",
+				"/Game/UtkuTuremen/FBX/Material_002"
+			]
+		},
+		{
+			"ShaderMapHash": "4D3EC67128E54634AB31593280083616B20B0A30",
+			"Assets": [
+				"/Game/UtkuTuremen/Material/M_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "08EC3887A261EA31A768590C967BB56F358C2A50",
+			"Assets": [
+				"/Game/UtkuTuremen/Material/istockphoto-1200754275-170667a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "6692EBCEB3204B6BB3416714A090EC187BF33BFF",
+			"Assets": [
+				"/Game/UtkuTuremen/FBX/Material/Material_013"
+			]
+		},
+		{
+			"ShaderMapHash": "E529D495BD099BA67D33BE6A8F65C4155804E6E3",
+			"Assets": [
+				"/Game/UtkuTuremen/FBX/Material/Material_010"
 			]
 		},
 		{
@@ -284,19 +353,6 @@
 			"ShaderMapHash": "9B648DC8CDA725D9995FAC5ACD639609E71D78AA",
 			"Assets": [
 				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
-			]
-		},
-		{
-			"ShaderMapHash": "A583EAD8CCEE3C8094B2B46535089EE2DE8CE545",
-			"Assets": [
-				"/Game/FPWeapon/Materials/BaseMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
-			"Assets": [
-				"/Game/UtkuTuremen/FBX/Material/odun_Mat",
-				"/Game/UtkuTuremen/FBX/Material/indir_1_Mat"
 			]
 		}
 	]
