@@ -3,6 +3,7 @@ Engine/Binaries/Win64/OpenImageDenoise.dll	2022-10-21T15:35:21.426Z
 Engine/Binaries/Win64/tbb.dll	2022-10-21T15:35:27.005Z
 Engine/Binaries/Win64/tbb12.dll	2022-10-21T15:35:27.006Z
 Engine/Binaries/Win64/UnrealGame-Win64-Shipping.exe	2022-10-21T15:36:07.186Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2022-10-21T15:40:40.574Z
 Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2022-10-21T15:33:56.905Z
 Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/GfnRuntimeSdk.dll	2022-10-21T15:34:40.437Z
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2022-10-21T15:34:40.525Z
@@ -15,4 +16,4 @@ Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll	2022-10-21T15:34
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2022-10-21T15:35:02.254Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2022-10-21T15:35:02.255Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2022-10-21T16:09:33.885Z
-BUG_Fall_Jam.exe	2022-11-27T11:57:03.154Z
+BUG_Fall_Jam.exe	2022-11-27T12:52:47.599Z
